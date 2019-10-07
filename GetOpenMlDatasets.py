@@ -8,8 +8,6 @@ def main():
     datasets = oml.datasets.list_datasets(output_format='dataframe')
     datasets.to_csv('OpenMlDatasetCatalog')
     for id in datasets['did']:
-        print(id)
-        print(id)
         dataset = oml.datasets.get_dataset(id)
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()

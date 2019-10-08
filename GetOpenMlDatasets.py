@@ -16,6 +16,11 @@ def main():
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()
         assert len(cols) == len(postfixes)
         df.columns = [cols[i] + postfixes[i] for i in range(len(cols))]
+        if y is None:
+            cols = df.columns[-1:] + df.columns[:-1]
+            df = df[cols]
+        else:
+            df['class'] = y
         file_name = dataset.name + "_" + tag + "_" + str(id) + ".csv"
         file_name = ''.join(c for c in file_name if c not in '<>:"|\/?*' )
         df.to_csv(os.path.join('OpenMlDatasets', file_name))
@@ -34,11 +39,17 @@ def get_rest(starting_id=1):
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
         if len(df) > 10000:
             continue
-        tag = dataset.tag
+        tag = str(dataset.tag)
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()
         assert len(cols) == len(postfixes)
         df.columns = [cols[i] + postfixes[i] for i in range(len(cols))]
-        file_name = dataset.name + "_" + str(id) + ".csv"
+        if y is None:
+            cols = df.columns
+            cols = cols[-1:].append(cols[:-1])
+            df = df[cols]
+        else:
+            df['class'] = y
+        file_name = dataset.name + "_" + tag + "_" + str(id) + ".csv"
         file_name = ''.join(c for c in file_name if c not in '<>:"|\/?*' )
         df.to_csv(os.path.join('OpenMlDatasets', file_name))
 
@@ -49,4 +60,4 @@ def refresh_catalog():
 
 
 if __name__ =="__main__":
-    get_rest(starting_id=388)
+    get_rest(starting_id=405)

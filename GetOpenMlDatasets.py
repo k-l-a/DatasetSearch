@@ -10,6 +10,8 @@ def main():
     for id in datasets['did']:
         dataset = oml.datasets.get_dataset(id)
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
+        if len(df) > 10000:
+            continue
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()
         assert len(cols) == len(postfixes)
         df.columns = [cols[i] + postfixes[i] for i in range(len(cols))]
@@ -23,12 +25,15 @@ def get_rest():
     existing_files = os.listdir("OpenMlDatasets")
     existing_ids = [int(i.split("_")[-1].split('.')[0], 10) for i in existing_files]
     all_ids = df['did']
-    rest_ids = [i for i in all_ids if i not in existing_ids]
+    deprecated_ids = [201,]
+    rest_ids = [i for i in all_ids if i not in existing_ids and i not in deprecated_ids]
     print(rest_ids[:10])
     for id in rest_ids:
         print(id)
         dataset = oml.datasets.get_dataset(id)
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
+        if len(df) > 10000:
+            continue
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()
         assert len(cols) == len(postfixes)
         df.columns = [cols[i] + postfixes[i] for i in range(len(cols))]

@@ -26,7 +26,7 @@ def get_rest(starting_id=1):
     existing_files = os.listdir("OpenMlDatasets")
     existing_ids = [int(i.split("_")[-1].split('.')[0], 10) for i in existing_files]
     all_ids = df['did']
-    deprecated_ids = [202,]
+    deprecated_ids = [202, 386]
     rest_ids = [i for i in all_ids if i >= starting_id and i not in existing_ids and i not in deprecated_ids]
     for id in rest_ids:
         print(id)
@@ -38,7 +38,7 @@ def get_rest(starting_id=1):
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()
         assert len(cols) == len(postfixes)
         df.columns = [cols[i] + postfixes[i] for i in range(len(cols))]
-        file_name = dataset.name + "_" + tag + "_" + str(id) + ".csv"
+        file_name = dataset.name + "_" + str(id) + ".csv"
         file_name = ''.join(c for c in file_name if c not in '<>:"|\/?*' )
         df.to_csv(os.path.join('OpenMlDatasets', file_name))
 
@@ -49,4 +49,4 @@ def refresh_catalog():
 
 
 if __name__ =="__main__":
-    get_rest(starting_id=292)
+    get_rest(starting_id=388)

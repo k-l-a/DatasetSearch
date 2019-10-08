@@ -1,0 +1,11 @@
+,Number_of_cars_cat,Number_of_different_loads_cat,num_wheels_2_cat,length_2_cat,shape_2_cat,num_loads_2_cat,load_shape_2_cat,num_wheels_3_cat,length_3_cat,shape_3_cat,num_loads_3_cat,load_shape_3_cat,num_wheels_4_cat,length_4_cat,shape_4_cat,num_loads_4_cat,load_shape_4_cat,num_wheels_5_cat,length_5_cat,shape_5_cat,num_loads_5_cat,load_shape_5_cat,Rectangle_next_to_rectangle_cat,Rectangle_next_to_triangle_cat,Rectangle_next_to_hexagon_cat,Rectangle_next_to_circle_cat,Triangle_next_to_triangle_cat,Triangle_next_to_hexagon_cat,Triangle_next_to_circle_cat,Hexagon_next_to_hexagon_cat,Hexagon_next_to_circle_cat,Circle_next_to_circle_cat,class_cat
+0,5,4,2,long,openrect,3,rectanglod,2,short,slopetop,1,trianglod,3,long,openrect,1,hexagonlod,2,short,openrect,1,circlelod,0,1,0,0,0,1,0,0,1,0,east
+1,4,3,2,short,ushaped,1,trianglod,2,short,opentrap,1,rectanglod,2,short,closedrect,2,circlelod,,,,,,0,1,0,1,0,0,0,0,0,0,east
+2,4,2,2,short,openrect,1,circlelod,2,short,hexagon,1,trianglod,3,long,closedrect,1,trianglod,,,,,,0,0,0,0,1,0,1,0,0,0,east
+3,5,2,2,short,opentrap,1,trianglod,2,short,dblopnrect,1,trianglod,2,short,ellipse,1,rectanglod,2,short,openrect,1,rectanglod,1,1,0,0,1,0,0,0,0,0,east
+4,4,3,2,short,dblopnrect,1,trianglod,3,long,closedrect,1,rectanglod,2,short,closedrect,1,circlelod,,,,,,0,1,0,1,0,0,0,0,0,0,east
+5,3,2,2,long,closedrect,3,circlelod,2,short,openrect,1,trianglod,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,west
+6,4,2,2,short,dblopnrect,1,circlelod,2,short,ushaped,1,trianglod,2,long,jaggedtop,0,,,,,,,0,0,0,0,0,0,1,0,0,0,west
+7,3,2,3,long,closedrect,1,rectanglod,2,short,ushaped,1,circlelod,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,west
+8,5,2,2,short,opentrap,1,circlelod,2,long,jaggedtop,1,rectanglod,2,short,openrect,1,rectanglod,2,short,opentrap,1,circlelod,1,0,0,1,0,0,0,0,0,0,west
+9,3,1,2,short,ushaped,1,rectanglod,2,long,openrect,2,rectanglod,,,,,,,,,,,1,0,0,0,0,0,0,0,0,0,west

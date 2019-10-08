@@ -2,13 +2,18 @@ import openml as oml
 import os
 import numpy as np
 import pandas as pd
+from openml.exceptions import OpenMLServerException
 
 
 def main():
     datasets = oml.datasets.list_datasets(output_format='dataframe')
     datasets.to_csv('OpenMlDatasetCatalog')
     for id in datasets['did']:
-        dataset = oml.datasets.get_dataset(id)
+        try:
+            dataset = oml.datasets.get_dataset(id)
+        except OpenMLServerException:
+            print("deprecated dataset!")
+            continue
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
         if len(df) > 10000:
             continue
@@ -31,11 +36,15 @@ def get_rest(starting_id=1):
     existing_files = os.listdir("OpenMlDatasets")
     existing_ids = [int(i.split("_")[-1].split('.')[0], 10) for i in existing_files]
     all_ids = df['did']
-    deprecated_ids = [202, 386]
+    deprecated_ids = [202, 386, 486, 495, 525]
     rest_ids = [i for i in all_ids if i >= starting_id and i not in existing_ids and i not in deprecated_ids]
     for id in rest_ids:
         print(id)
-        dataset = oml.datasets.get_dataset(id)
+        try:
+            dataset = oml.datasets.get_dataset(id)
+        except OpenMLServerException:
+            print("deprecated dataset!")
+            continue
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
         if len(df) > 10000:
             continue
@@ -60,4 +69,4 @@ def refresh_catalog():
 
 
 if __name__ =="__main__":
-    get_rest(starting_id=405)
+    get_rest(starting_id=526)

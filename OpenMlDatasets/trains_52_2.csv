@@ -1,0 +1,11 @@
+,Hexagon_next_to_circle_cat,length_4_cat,Rectangle_next_to_rectangle_cat,length_3_cat,Rectangle_next_to_hexagon_cat,shape_5_cat,class_cat,length_5_cat,load_shape_3_cat,Number_of_cars_cat,num_loads_4_cat,Triangle_next_to_triangle_cat,Triangle_next_to_circle_cat,num_loads_5_cat,shape_3_cat,length_2_cat
+0,1,long,0,short,0,openrect,east,short,trianglod,5,1,0,0,1,slopetop,long
+1,0,short,0,short,0,,east,,rectanglod,4,2,0,0,,opentrap,short
+2,0,long,0,short,0,,east,,trianglod,4,1,1,1,,hexagon,short
+3,0,short,1,short,0,openrect,east,short,trianglod,5,1,1,0,1,dblopnrect,short
+4,0,short,0,long,0,,east,,rectanglod,4,1,0,0,,closedrect,short
+5,0,,0,short,0,,west,,trianglod,3,,0,1,,openrect,long
+6,0,long,0,short,0,,west,,trianglod,4,0,0,1,,ushaped,short
+7,0,,0,short,0,,west,,circlelod,3,,0,0,,ushaped,long
+8,0,short,1,long,0,opentrap,west,short,rectanglod,5,1,0,0,1,jaggedtop,short
+9,0,,1,long,0,,west,,rectanglod,3,,0,0,,openrect,short

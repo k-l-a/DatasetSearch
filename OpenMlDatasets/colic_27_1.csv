@@ -1,0 +1,369 @@
+,abdominocentesis_appearance_cat,abdomen_cat,rectal_temperature_num,nasogastric_tube_cat,total_protein_num,rectal_examination_cat,pain_cat,pulse_num,Age_cat,packed_cell_volume_num,temp_extremities_cat,peripheral_pulse_cat
+0,,distended large intestine,38.5,,8.4,decreased,continuous severe pain,66.0,adult,45.0,cool,reduced
+1,cloudy,other,39.2,,85.0,absent,intermittent mild pain,88.0,adult,50.0,,
+2,,normal,38.3,,6.7,normal,intermittent mild pain,40.0,adult,33.0,normal,normal
+3,serosanguinous,,39.1,none,7.2,decreased,depressed,164.0,young,48.0,cold,normal
+4,,,37.3,,7.4,,,104.0,adult,74.0,,
+5,,firm feces in large intestine,,slight,,decreased,depressed,,adult,,warm,normal
+6,,distended large intestine,37.9,none,7.0,decreased,intermittent mild pain,48.0,adult,37.0,normal,normal
+7,,distended small intestine,,slight,8.3,decreased,,60.0,adult,44.0,cool,
+8,,distended large intestine,,slight,6.2,decreased,intermittent severe pain,80.0,adult,38.0,cool,absent
+9,clear,,38.3,slight,6.2,decreased,continuous severe pain,90.0,young,40.0,normal,
+10,cloudy,distended large intestine,38.1,slight,6.0,increased,intermittent mild pain,66.0,adult,44.0,cool,reduced
+11,,distended small intestine,39.1,none,7.8,absent,depressed,72.0,adult,50.0,warm,
+12,,distended large intestine,37.2,significant,7.0,absent,intermittent mild pain,42.0,adult,,warm,normal
+13,clear,normal,38.0,significant,6.1,normal,alert no pain,92.0,young,37.0,normal,normal
+14,clear,distended small intestine,38.2,slight,81.0,absent,intermittent mild pain,76.0,adult,46.0,cool,normal
+15,,,37.6,slight,6.8,absent,continuous severe pain,96.0,adult,45.0,cool,normal
+16,serosanguinous,distended large intestine,,significant,7.8,absent,intermittent severe pain,128.0,young,53.0,cool,reduced
+17,,,37.5,,,,,48.0,adult,,,
+18,clear,distended large intestine,37.6,none,7.0,increased,depressed,64.0,adult,40.0,normal,normal
+19,,,39.4,,8.7,,,110.0,adult,55.0,cold,reduced
+20,cloudy,distended small intestine,39.9,significant,6.1,absent,continuous severe pain,72.0,adult,46.0,normal,normal
+21,,firm feces in large intestine,38.4,slight,6.8,absent,alert no pain,48.0,adult,49.0,normal,
+22,,,38.6,,7.2,normal,depressed,42.0,adult,48.0,warm,normal
+23,,,38.3,,70.0,,depressed,130.0,young,50.0,,reduced
+24,,,38.1,significant,65.0,,,60.0,adult,51.0,cool,reduced
+25,,,37.8,,,,,60.0,adult,,,
+26,cloudy,distended large intestine,38.3,slight,7.0,decreased,intermittent mild pain,72.0,adult,43.0,cold,reduced
+27,cloudy,firm feces in large intestine,37.8,none,5.5,normal,,48.0,adult,37.0,cool,normal
+28,,,,,,,,,adult,,,
+29,,,37.7,none,76.0,,alert no pain,48.0,adult,45.0,warm,normal
+30,,distended large intestine,37.7,significant,7.5,absent,continuous severe pain,96.0,adult,66.0,cool,reduced
+31,serosanguinous,firm feces in large intestine,37.2,,8.2,decreased,depressed,108.0,adult,52.0,cool,reduced
+32,,distended large intestine,37.2,slight,6.6,absent,intermittent mild pain,60.0,adult,43.0,warm,normal
+33,cloudy,distended small intestine,38.2,,8.6,absent,intermittent mild pain,64.0,adult,49.0,normal,normal
+34,,distended small intestine,,significant,6.6,absent,continuous severe pain,100.0,adult,52.0,cool,reduced
+35,,other,,,8.4,,intermittent severe pain,104.0,adult,73.0,cold,reduced
+36,cloudy,distended large intestine,38.3,none,6.0,,,112.0,adult,51.0,,reduced
+37,clear,normal,37.8,,80.0,normal,continuous severe pain,72.0,adult,56.0,,reduced
+38,clear,firm feces in large intestine,38.6,none,6.6,normal,intermittent mild pain,52.0,adult,32.0,normal,normal
+39,,,39.2,,,,,146.0,young,,,
+40,serosanguinous,distended large intestine,,none,6.5,absent,continuous severe pain,88.0,adult,63.0,cool,reduced
+41,,,39.0,,8.5,,,150.0,young,47.0,,
+42,,other,38.0,none,7.0,increased,intermittent mild pain,60.0,adult,47.0,cool,normal
+43,cloudy,distended large intestine,,none,67.0,,intermittent severe pain,120.0,adult,52.0,cool,absent
+44,serosanguinous,distended large intestine,35.4,slight,69.0,,intermittent severe pain,140.0,adult,57.0,cool,reduced
+45,serosanguinous,distended large intestine,,none,6.5,absent,continuous severe pain,120.0,adult,60.0,cold,reduced
+46,,distended large intestine,37.9,slight,7.5,absent,continuous severe pain,60.0,adult,65.0,cool,
+47,,,37.5,none,6.5,normal,alert no pain,48.0,adult,37.0,normal,normal
+48,serosanguinous,normal,38.9,slight,6.5,decreased,depressed,80.0,adult,54.0,cool,reduced
+49,cloudy,normal,37.2,none,5.5,increased,intermittent severe pain,84.0,adult,73.0,cool,reduced
+50,clear,other,38.6,none,9.1,,alert no pain,46.0,adult,49.0,normal,normal
+51,serosanguinous,distended large intestine,37.4,,,absent,intermittent mild pain,84.0,adult,,normal,
+52,,other,,,7.7,increased,alert no pain,,adult,43.0,normal,normal
+53,,,38.6,,6.4,,,40.0,adult,41.0,,
+54,serosanguinous,distended large intestine,40.3,slight,8.1,normal,depressed,114.0,adult,57.0,cool,reduced
+55,cloudy,,38.6,significant,,absent,intermittent mild pain,160.0,young,38.0,cool,
+56,,,,,6.7,,,,adult,24.0,,
+57,,,,slight,7.7,,continuous severe pain,64.0,adult,42.0,warm,
+58,serosanguinous,distended small intestine,,slight,5.9,absent,continuous severe pain,,adult,53.0,cold,reduced
+59,,distended large intestine,,none,,absent,continuous severe pain,96.0,adult,60.0,cool,reduced
+60,,distended large intestine,37.8,none,6.7,absent,depressed,48.0,adult,37.0,normal,normal
+61,,normal,38.5,slight,7.7,normal,alert no pain,60.0,adult,44.0,warm,increased
+62,clear,,37.8,slight,8.0,absent,intermittent mild pain,88.0,adult,64.0,warm,normal
+63,cloudy,,38.2,none,82.0,,depressed,130.0,adult,65.0,cold,reduced
+64,serosanguinous,distended large intestine,39.0,none,7.5,absent,intermittent mild pain,64.0,adult,44.0,cool,normal
+65,cloudy,distended small intestine,,none,72.0,decreased,intermittent mild pain,60.0,adult,26.0,cool,normal
+66,clear,distended small intestine,37.9,none,74.0,decreased,intermittent mild pain,72.0,adult,58.0,normal,normal
+67,clear,other,38.4,slight,7.2,decreased,alert no pain,54.0,adult,49.0,normal,normal
+68,,,,slight,7.2,,,52.0,adult,55.0,normal,
+69,cloudy,other,38.0,none,6.3,decreased,alert no pain,48.0,adult,42.0,normal,normal
+70,,distended small intestine,37.0,slight,7.6,absent,intermittent mild pain,60.0,adult,43.0,cool,
+71,cloudy,normal,37.8,slight,5.9,normal,alert no pain,48.0,adult,46.0,normal,normal
+72,,,37.7,,,,,56.0,adult,,,
+73,cloudy,,38.1,slight,7.5,normal,intermittent severe pain,52.0,adult,54.0,normal,normal
+74,,,,,4.9,,,,young,37.0,,
+75,cloudy,,39.7,,57.0,,depressed,100.0,young,48.0,cool,reduced
+76,,,37.6,,68.0,decreased,intermittent mild pain,38.0,adult,37.0,cool,reduced
+77,,normal,38.7,none,77.0,normal,alert no pain,52.0,adult,33.0,warm,
+78,,distended large intestine,,significant,5.9,absent,continuous severe pain,,adult,46.0,cool,reduced
+79,serosanguinous,distended small intestine,37.5,slight,8.9,,intermittent mild pain,96.0,adult,69.0,normal,reduced
+80,serosanguinous,distended small intestine,36.4,,6.4,absent,intermittent severe pain,98.0,adult,47.0,cool,reduced
+81,serosanguinous,distended large intestine,37.3,significant,,decreased,depressed,40.0,adult,36.0,,reduced
+82,,,38.1,,5.7,normal,intermittent mild pain,100.0,young,36.0,cool,normal
+83,,,38.0,none,7.8,,continuous severe pain,,adult,68.0,cool,reduced
+84,cloudy,,37.8,,4.5,absent,depressed,60.0,adult,40.0,normal,reduced
+85,,distended small intestine,38.0,slight,6.2,,intermittent mild pain,54.0,adult,45.0,warm,reduced
+86,serosanguinous,distended large intestine,,significant,7.7,absent,continuous severe pain,88.0,adult,50.0,cool,reduced
+87,cloudy,,,,7.0,,,40.0,adult,50.0,,
+88,cloudy,firm feces in large intestine,39.0,slight,7.5,decreased,intermittent mild pain,64.0,adult,42.0,normal,normal
+89,,,38.3,,61.0,,alert no pain,42.0,adult,38.0,normal,normal
+90,,normal,38.0,,86.0,normal,depressed,52.0,adult,53.0,,
+91,serosanguinous,distended large intestine,40.3,slight,8.1,normal,depressed,114.0,adult,57.0,cool,reduced
+92,,normal,38.8,slight,6.2,decreased,alert no pain,50.0,adult,42.0,cool,normal
+93,,distended large intestine,,none,6.5,absent,continuous severe pain,,adult,38.0,cool,reduced
+94,,normal,37.5,none,8.6,normal,,48.0,adult,48.0,cold,normal
+95,,distended large intestine,37.3,slight,69.0,decreased,intermittent mild pain,48.0,adult,41.0,,normal
+96,,other,,slight,8.5,decreased,,84.0,adult,44.0,,
+97,,distended large intestine,38.1,,60.0,absent,depressed,88.0,adult,55.0,cool,reduced
+98,,distended large intestine,37.7,none,60.0,normal,alert no pain,44.0,adult,41.0,warm,normal
+99,cloudy,distended large intestine,39.6,none,8.0,decreased,depressed,108.0,adult,59.0,cool,reduced
+100,,normal,38.2,,66.0,normal,alert no pain,40.0,adult,34.0,cool,reduced
+101,,distended large intestine,,,,absent,continuous severe pain,60.0,adult,,cold,reduced
+102,,,38.3,,57.0,,depressed,40.0,adult,37.0,cool,
+103,,normal,38.0,,5.3,increased,intermittent mild pain,140.0,young,39.0,normal,normal
+104,clear,distended large intestine,37.8,slight,6.6,increased,intermittent severe pain,52.0,adult,48.0,normal,reduced
+105,,distended large intestine,,slight,7.3,absent,depressed,70.0,adult,36.0,normal,
+106,,,38.3,none,6.1,normal,,52.0,adult,43.0,,reduced
+107,,,37.3,,7.0,normal,alert no pain,50.0,adult,44.0,normal,normal
+108,serosanguinous,distended large intestine,38.7,,64.0,absent,intermittent severe pain,60.0,adult,53.0,cold,reduced
+109,cloudy,,38.4,none,6.6,,intermittent mild pain,84.0,young,36.0,cool,reduced
+110,,distended large intestine,,slight,7.5,absent,depressed,70.0,adult,60.0,cool,absent
+111,clear,,38.3,,58.0,,alert no pain,40.0,adult,38.0,cool,
+112,,distended large intestine,,none,56.0,,alert no pain,40.0,adult,39.0,warm,normal
+113,,,36.8,,,,,60.0,adult,,,
+114,,distended large intestine,38.4,slight,77.0,absent,continuous severe pain,44.0,adult,50.0,cool,
+115,,,,,70.0,,intermittent mild pain,,adult,45.0,cool,normal
+116,,distended large intestine,38.0,slight,65.0,absent,intermittent mild pain,44.0,adult,42.0,normal,normal
+117,clear,distended large intestine,39.5,,6.7,absent,intermittent mild pain,,adult,,cool,reduced
+118,cloudy,,36.5,,75.0,,continuous severe pain,78.0,adult,34.0,normal,
+119,,,38.1,none,70.0,,alert no pain,56.0,adult,46.0,warm,normal
+120,cloudy,distended small intestine,39.4,none,6.0,decreased,depressed,54.0,adult,39.0,normal,normal
+121,cloudy,distended small intestine,38.3,,10.2,normal,intermittent severe pain,80.0,adult,67.0,,
+122,clear,,38.7,,62.0,normal,intermittent mild pain,40.0,adult,39.0,warm,normal
+123,clear,distended small intestine,38.2,slight,7.5,absent,intermittent severe pain,64.0,adult,45.0,normal,normal
+124,,normal,37.6,slight,5.5,normal,alert no pain,48.0,adult,37.0,cool,normal
+125,,distended small intestine,38.0,slight,7.6,absent,intermittent mild pain,42.0,adult,41.0,cold,normal
+126,cloudy,,38.7,,6.5,,continuous severe pain,,adult,33.0,cool,normal
+127,cloudy,,37.4,slight,7.9,normal,intermittent severe pain,50.0,adult,45.0,cool,reduced
+128,,,37.4,,61.0,,depressed,84.0,adult,31.0,,
+129,,,38.4,slight,7.6,,,49.0,adult,44.0,,
+130,,,37.8,,,,,30.0,adult,,,
+131,,,37.6,none,6.0,,intermittent mild pain,88.0,adult,44.0,cool,normal
+132,cloudy,distended large intestine,38.0,slight,73.0,decreased,intermittent severe pain,48.0,adult,43.0,cool,normal
+133,,firm feces in large intestine,37.9,,5.7,,depressed,40.0,adult,40.0,normal,normal
+134,,,,slight,6.3,increased,continuous severe pain,100.0,adult,59.0,cool,
+135,cloudy,,38.1,slight,4.9,increased,continuous severe pain,136.0,young,33.0,cool,reduced
+136,,distended large intestine,,significant,5.9,absent,continuous severe pain,,adult,46.0,cool,reduced
+137,,distended large intestine,38.0,slight,,absent,alert no pain,48.0,adult,,normal,normal
+138,,normal,38.0,none,71.0,normal,alert no pain,56.0,adult,42.0,normal,increased
+139,clear,,38.0,none,7.0,,intermittent mild pain,60.0,adult,50.0,normal,normal
+140,,distended large intestine,38.1,none,7.3,absent,depressed,44.0,adult,31.0,cool,normal
+141,,,36.0,,6.8,,,42.0,adult,64.0,,
+142,serosanguinous,distended large intestine,,,4.5,absent,continuous severe pain,120.0,adult,57.0,cold,reduced
+143,cloudy,normal,37.8,slight,5.9,normal,alert no pain,48.0,adult,46.0,normal,normal
+144,,distended large intestine,37.1,significant,81.0,absent,depressed,84.0,adult,75.0,cool,reduced
+145,,,,slight,80.0,decreased,depressed,80.0,adult,50.0,cool,reduced
+146,,distended large intestine,38.2,none,71.0,absent,intermittent mild pain,48.0,adult,42.0,normal,reduced
+147,,distended small intestine,38.0,none,6.5,normal,intermittent mild pain,44.0,adult,33.0,warm,normal
+148,,distended small intestine,38.3,slight,8.0,absent,depressed,132.0,adult,57.0,,reduced
+149,,,38.7,none,63.0,normal,alert no pain,48.0,adult,34.0,,
+150,,other,38.9,,64.0,,depressed,44.0,adult,33.0,cool,normal
+151,serosanguinous,distended small intestine,39.3,none,,absent,intermittent severe pain,,adult,75.0,cold,reduced
+152,serosanguinous,,,slight,64.0,,,100.0,adult,68.0,cool,reduced
+153,clear,other,38.6,slight,7.3,decreased,alert no pain,48.0,adult,50.0,cool,normal
+154,,distended large intestine,38.8,slight,65.0,,intermittent mild pain,48.0,adult,41.0,normal,normal
+155,clear,other,38.0,slight,8.3,,alert no pain,48.0,adult,49.0,cool,reduced
+156,clear,firm feces in large intestine,38.6,none,6.6,normal,intermittent mild pain,52.0,adult,36.0,normal,normal
+157,,distended large intestine,37.8,slight,75.0,,,60.0,adult,52.0,normal,
+158,,,38.0,,,,intermittent mild pain,42.0,adult,,cool,normal
+159,cloudy,firm feces in large intestine,,significant,7.5,normal,depressed,,adult,44.0,normal,normal
+160,cloudy,distended large intestine,,none,58.0,,intermittent severe pain,,adult,35.0,,
+161,,,38.3,,8.5,,,42.0,adult,40.0,,
+162,clear,,39.5,slight,56.0,decreased,intermittent mild pain,60.0,adult,38.0,cool,
+163,serosanguinous,,38.0,none,46.0,decreased,continuous severe pain,66.0,adult,46.0,normal,reduced
+164,,distended small intestine,38.7,slight,8.0,absent,intermittent mild pain,76.0,adult,50.0,normal,normal
+165,clear,,39.4,none,64.0,absent,,120.0,adult,56.0,,
+166,clear,normal,38.3,,5.9,increased,intermittent mild pain,40.0,adult,43.0,normal,normal
+167,,normal,,slight,6.3,,intermittent mild pain,44.0,adult,,normal,normal
+168,,distended small intestine,38.4,slight,8.5,,depressed,104.0,adult,55.0,normal,normal
+169,,distended large intestine,,significant,,,continuous severe pain,65.0,adult,,,
+170,,,37.5,,7.2,normal,,44.0,adult,35.0,normal,normal
+171,serosanguinous,,39.0,,5.8,,intermittent mild pain,86.0,adult,68.0,cool,reduced
+172,serosanguinous,,38.5,none,66.0,,depressed,129.0,adult,57.0,cool,reduced
+173,cloudy,distended small intestine,,,8.6,absent,depressed,104.0,adult,69.0,cool,reduced
+174,,,,,,,intermittent severe pain,,adult,,cool,absent
+175,,,,,,,,,adult,,,
+176,,other,38.2,slight,66.0,decreased,intermittent mild pain,60.0,adult,48.0,normal,normal
+177,cloudy,,,,,,intermittent severe pain,68.0,adult,,,
+178,serosanguinous,,,none,70.0,absent,continuous severe pain,60.0,adult,45.0,cool,reduced
+179,,distended large intestine,38.5,slight,,absent,intermittent severe pain,100.0,adult,,cool,reduced
+180,serosanguinous,distended small intestine,38.4,slight,7.5,absent,intermittent severe pain,84.0,adult,47.0,cool,normal
+181,,,37.8,none,7.5,normal,intermittent mild pain,48.0,adult,35.0,,
+182,,,38.0,none,7.8,,continuous severe pain,,adult,68.0,cool,reduced
+183,clear,,37.8,slight,68.0,normal,depressed,56.0,adult,44.0,normal,normal
+184,,normal,38.2,significant,65.0,normal,alert no pain,68.0,adult,43.0,warm,increased
+185,,,38.5,,,,,120.0,adult,54.0,cold,reduced
+186,,,39.3,none,6.7,,,64.0,adult,39.0,warm,reduced
+187,serosanguinous,distended large intestine,38.4,significant,6.1,absent,intermittent mild pain,80.0,adult,32.0,cold,reduced
+188,clear,,38.5,,53.0,,,60.0,adult,33.0,normal,normal
+189,clear,distended small intestine,38.3,slight,6.0,normal,depressed,60.0,adult,30.0,cool,normal
+190,serosanguinous,firm feces in large intestine,37.1,none,6.7,decreased,intermittent mild pain,40.0,adult,23.0,,normal
+191,,,,,4.7,normal,intermittent severe pain,100.0,young,37.0,warm,normal
+192,clear,,38.2,none,74.0,absent,intermittent mild pain,48.0,adult,48.0,normal,normal
+193,,,,,7.6,,intermittent severe pain,60.0,adult,58.0,cool,reduced
+194,,normal,37.9,,56.0,absent,depressed,88.0,adult,37.0,normal,normal
+195,,,38.0,,64.0,normal,,44.0,adult,42.0,cool,normal
+196,cloudy,firm feces in large intestine,38.5,slight,7.5,increased,depressed,60.0,adult,63.0,normal,normal
+197,,distended large intestine,38.5,none,8.5,absent,depressed,96.0,adult,70.0,cool,reduced
+198,,,38.3,,66.0,decreased,alert no pain,60.0,adult,34.0,normal,normal
+199,,other,38.5,,59.0,decreased,depressed,60.0,adult,49.0,cool,normal
+200,cloudy,firm feces in large intestine,37.3,slight,6.6,decreased,intermittent mild pain,48.0,adult,40.0,normal,
+201,clear,distended large intestine,38.5,slight,7.4,decreased,intermittent severe pain,86.0,adult,45.0,normal,normal
+202,serosanguinous,distended large intestine,37.5,none,55.0,,,48.0,adult,41.0,,
+203,,normal,37.2,slight,5.7,absent,depressed,36.0,adult,35.0,normal,normal
+204,clear,,39.2,slight,6.6,,intermittent severe pain,,adult,36.0,cool,normal
+205,,distended large intestine,38.5,slight,,absent,intermittent severe pain,100.0,adult,,cool,reduced
+206,,distended large intestine,38.5,slight,65.0,decreased,intermittent severe pain,96.0,adult,50.0,warm,reduced
+207,,,,,8.7,,,,adult,45.0,,
+208,,distended large intestine,37.8,slight,89.0,absent,,88.0,adult,64.0,cool,reduced
+209,clear,firm feces in large intestine,37.5,slight,51.0,decreased,intermittent mild pain,44.0,adult,43.0,cool,normal
+210,serosanguinous,distended large intestine,37.9,,4.0,normal,depressed,68.0,adult,45.0,,normal
+211,clear,distended large intestine,38.0,none,5.5,absent,depressed,86.0,adult,45.0,cold,reduced
+212,clear,,38.9,significant,6.3,,intermittent mild pain,120.0,young,47.0,normal,reduced
+213,cloudy,distended small intestine,37.6,slight,7.0,normal,,45.0,adult,39.0,cool,normal
+214,cloudy,,38.6,slight,7.0,increased,alert no pain,56.0,adult,40.0,warm,normal
+215,,other,37.8,slight,7.0,normal,alert no pain,40.0,adult,38.0,normal,normal
+216,,,,,,,,,adult,,,
+217,,,38.0,,11.0,,,76.0,adult,71.0,,
+218,,,38.1,,,,depressed,40.0,adult,,normal,increased
+219,,distended small intestine,,slight,8.1,absent,intermittent mild pain,52.0,adult,37.0,cool,reduced
+220,cloudy,,39.2,,,,continuous severe pain,88.0,adult,,cold,absent
+221,cloudy,,38.5,,67.0,absent,depressed,92.0,adult,46.0,cold,reduced
+222,serosanguinous,distended small intestine,,slight,6.3,absent,depressed,112.0,adult,60.0,cold,absent
+223,cloudy,distended small intestine,37.7,slight,6.2,absent,intermittent mild pain,66.0,adult,31.5,normal,normal
+224,,distended large intestine,38.8,none,58.0,decreased,intermittent mild pain,50.0,adult,38.0,normal,normal
+225,clear,other,38.4,slight,7.2,decreased,alert no pain,54.0,adult,49.0,normal,normal
+226,serosanguinous,distended small intestine,39.2,none,8.8,,depressed,120.0,adult,60.0,cold,reduced
+227,cloudy,,,,6.5,,,,young,45.0,,
+228,serosanguinous,distended large intestine,37.3,slight,50.0,normal,continuous severe pain,90.0,adult,65.0,cool,
+229,clear,,38.5,slight,54.0,normal,,120.0,young,35.0,,
+230,,,38.5,,,,intermittent severe pain,104.0,adult,,cool,reduced
+231,,,39.5,,6.4,absent,continuous severe pain,92.0,adult,72.0,cool,reduced
+232,,,38.5,,7.7,,,30.0,adult,40.0,,
+233,cloudy,distended large intestine,38.3,slight,7.0,decreased,intermittent mild pain,72.0,adult,43.0,cold,reduced
+234,,normal,37.5,none,8.6,normal,,48.0,adult,48.0,cold,normal
+235,cloudy,,38.1,slight,7.5,normal,intermittent severe pain,52.0,adult,54.0,normal,normal
+236,,,38.2,,6.9,normal,intermittent mild pain,42.0,adult,36.0,normal,normal
+237,serosanguinous,other,37.9,,54.0,,intermittent mild pain,54.0,adult,47.0,warm,normal
+238,serosanguinous,distended small intestine,36.1,slight,7.0,,intermittent mild pain,88.0,adult,45.0,cool,reduced
+239,,distended large intestine,38.1,,65.0,,continuous severe pain,70.0,adult,36.0,,normal
+240,,distended large intestine,38.0,,6.1,absent,continuous severe pain,90.0,adult,55.0,cold,reduced
+241,,,38.2,none,8.1,normal,alert no pain,52.0,adult,43.0,normal,normal
+242,,distended small intestine,,slight,5.9,,continuous severe pain,36.0,adult,41.0,normal,normal
+243,,,38.4,,,normal,,92.0,adult,,normal,
+244,clear,,38.2,,8.0,,depressed,124.0,young,47.0,normal,reduced
+245,,distended large intestine,,,,absent,continuous severe pain,96.0,adult,60.0,cool,reduced
+246,clear,distended large intestine,37.6,slight,7.2,normal,intermittent severe pain,68.0,adult,47.0,cool,
+247,,distended small intestine,38.1,slight,4.6,decreased,continuous severe pain,88.0,adult,41.0,cool,reduced
+248,serosanguinous,distended small intestine,38.0,slight,,decreased,intermittent severe pain,108.0,adult,,warm,reduced
+249,,other,38.2,slight,6.6,,intermittent mild pain,48.0,adult,34.0,warm,
+250,serosanguinous,distended small intestine,39.3,none,13.0,,depressed,100.0,adult,66.0,cold,absent
+251,,distended large intestine,36.6,none,7.1,,alert no pain,42.0,adult,52.0,cool,reduced
+252,serosanguinous,distended small intestine,38.8,none,7.6,absent,depressed,124.0,young,50.0,cool,normal
+253,serosanguinous,,,,5.3,absent,continuous severe pain,112.0,adult,40.0,cool,reduced
+254,,distended large intestine,,,70.0,absent,intermittent severe pain,80.0,adult,43.0,cool,reduced
+255,,,38.8,,3.3,increased,intermittent severe pain,184.0,young,33.0,normal,
+256,cloudy,,37.5,none,65.0,normal,depressed,72.0,adult,35.0,warm,normal
+257,,,38.7,,9.0,,,96.0,adult,64.0,cool,reduced
+258,clear,distended large intestine,37.5,slight,61.0,decreased,depressed,52.0,adult,36.0,normal,normal
+259,serosanguinous,,40.8,slight,7.4,,depressed,72.0,adult,54.0,cool,reduced
+260,,,38.0,none,69.0,absent,intermittent severe pain,40.0,adult,37.0,,normal
+261,,other,38.4,slight,6.5,,alert no pain,48.0,adult,39.0,warm,normal
+262,,,38.6,,5.9,,,88.0,young,35.0,,
+263,serosanguinous,distended small intestine,37.1,slight,7.4,absent,intermittent severe pain,75.0,adult,48.0,,
+264,cloudy,distended large intestine,38.3,slight,6.5,normal,intermittent mild pain,44.0,adult,44.0,cool,normal
+265,,,,slight,6.0,normal,intermittent mild pain,56.0,adult,40.0,cool,normal
+266,clear,distended large intestine,38.6,none,6.5,normal,intermittent mild pain,68.0,adult,38.0,warm,normal
+267,serosanguinous,distended small intestine,38.3,,7.2,,depressed,54.0,adult,44.0,cool,normal
+268,,,38.2,,60.0,decreased,,42.0,adult,47.0,,
+269,,distended large intestine,39.3,none,6.7,normal,,64.0,adult,39.0,warm,reduced
+270,,distended small intestine,37.5,slight,6.5,decreased,intermittent mild pain,60.0,adult,35.0,cool,reduced
+271,serosanguinous,normal,37.7,slight,55.0,decreased,continuous severe pain,80.0,adult,50.0,cool,reduced
+272,,distended small intestine,,significant,6.6,absent,continuous severe pain,100.0,adult,52.0,cool,reduced
+273,serosanguinous,,37.7,none,7.0,,continuous severe pain,120.0,adult,65.0,cool,reduced
+274,,distended large intestine,,,,,,76.0,adult,,,reduced
+275,,,38.8,none,6.2,,continuous severe pain,150.0,young,50.0,normal,reduced
+276,cloudy,,38.0,significant,75.0,decreased,intermittent severe pain,36.0,adult,37.0,cool,normal
+277,,,36.9,significant,6.5,,alert no pain,50.0,adult,37.5,warm,reduced
+278,,normal,37.8,,6.8,normal,alert no pain,40.0,adult,37.0,normal,normal
+279,clear,,38.2,slight,7.2,,depressed,56.0,adult,47.0,cold,reduced
+280,,,38.6,,67.0,,alert no pain,48.0,adult,36.0,,
+281,,normal,40.0,none,6.5,absent,depressed,78.0,adult,66.0,cool,reduced
+282,,distended large intestine,,slight,7.5,absent,depressed,70.0,adult,60.0,cool,absent
+283,,,38.2,,6.4,,,72.0,adult,35.0,,
+284,cloudy,,38.5,slight,6.8,normal,intermittent mild pain,54.0,adult,40.0,normal,normal
+285,clear,distended large intestine,38.5,slight,6.7,absent,intermittent mild pain,66.0,adult,40.0,normal,normal
+286,,,37.8,none,7.0,,intermittent severe pain,82.0,adult,50.0,cool,normal
+287,,,39.5,,5.0,,,84.0,young,28.0,,
+288,,,,,,,,,adult,,,
+289,clear,,38.0,,6.6,decreased,intermittent mild pain,50.0,adult,39.0,,normal
+290,,normal,38.6,,58.0,normal,alert no pain,45.0,adult,43.0,warm,normal
+291,serosanguinous,normal,38.9,slight,6.5,decreased,depressed,80.0,adult,54.0,cool,reduced
+292,cloudy,distended large intestine,37.0,none,6.9,normal,intermittent severe pain,66.0,adult,35.0,normal,reduced
+293,,distended small intestine,,slight,62.0,,,78.0,adult,43.0,cool,reduced
+294,,other,38.5,,67.0,decreased,depressed,40.0,adult,37.0,normal,normal
+295,,distended large intestine,,,65.0,,depressed,120.0,adult,55.0,cold,
+296,serosanguinous,distended small intestine,37.2,significant,,absent,intermittent severe pain,72.0,adult,44.0,cool,increased
+297,,distended large intestine,37.5,slight,6.8,decreased,intermittent severe pain,72.0,adult,60.0,cold,reduced
+298,serosanguinous,distended small intestine,36.5,significant,6.0,absent,intermittent mild pain,100.0,adult,50.0,cool,reduced
+299,clear,normal,37.2,,62.0,absent,,40.0,adult,36.0,,
+300,,other,38.5,slight,6.3,,intermittent mild pain,54.0,adult,42.0,,normal
+301,clear,,37.6,,6.3,,,48.0,adult,44.0,,
+302,serosanguinous,distended large intestine,37.7,none,70.0,decreased,continuous severe pain,44.0,adult,45.0,,absent
+303,serosanguinous,,37.0,none,61.0,,intermittent severe pain,56.0,adult,35.0,cool,normal
+304,,other,38.0,,5.8,,alert no pain,42.0,adult,37.0,cool,
+305,,distended large intestine,,significant,72.0,,,60.0,adult,42.0,cool,
+306,,normal,38.4,slight,6.9,normal,intermittent mild pain,80.0,adult,54.0,cool,increased
+307,clear,,37.8,slight,7.3,increased,intermittent mild pain,48.0,adult,48.0,warm,normal
+308,,distended large intestine,38.0,,,,depressed,65.0,adult,,,normal
+309,serosanguinous,,37.9,slight,5.7,decreased,depressed,45.0,adult,33.0,cool,reduced
+310,cloudy,distended small intestine,39.0,none,5.9,,depressed,84.0,adult,62.0,cool,normal
+311,cloudy,distended small intestine,38.2,significant,7.5,absent,intermittent mild pain,60.0,adult,53.0,cool,normal
+312,,distended large intestine,,none,69.0,,continuous severe pain,140.0,adult,30.0,,
+313,serosanguinous,distended large intestine,37.9,slight,6.6,absent,continuous severe pain,120.0,adult,52.0,cool,reduced
+314,cloudy,distended large intestine,38.0,slight,6.8,decreased,intermittent mild pain,72.0,adult,38.0,normal,normal
+315,clear,,38.0,significant,6.1,,alert no pain,92.0,young,37.0,normal,normal
+316,,distended large intestine,38.3,significant,6.0,absent,depressed,66.0,adult,37.0,warm,reduced
+317,clear,other,37.5,none,6.0,decreased,depressed,48.0,adult,43.0,cool,normal
+318,clear,,37.5,,6.4,,intermittent severe pain,88.0,adult,35.0,warm,reduced
+319,,,,,,,continuous severe pain,150.0,young,,cold,absent
+320,,distended large intestine,39.7,none,75.0,absent,intermittent severe pain,100.0,adult,65.0,,
+321,cloudy,distended small intestine,38.3,slight,7.5,absent,continuous severe pain,80.0,adult,45.0,cool,reduced
+322,clear,distended large intestine,37.5,slight,6.4,,intermittent mild pain,40.0,adult,32.0,cool,normal
+323,serosanguinous,distended small intestine,38.4,slight,7.5,absent,intermittent severe pain,84.0,adult,47.0,cool,normal
+324,,distended small intestine,38.1,none,6.8,,continuous severe pain,84.0,adult,60.0,cold,
+325,,firm feces in large intestine,38.7,,74.0,normal,alert no pain,52.0,adult,4.0,normal,normal
+326,,firm feces in large intestine,38.1,,6.8,normal,intermittent mild pain,44.0,adult,35.0,warm,normal
+327,clear,distended large intestine,38.4,slight,63.0,decreased,alert no pain,52.0,adult,41.0,warm,normal
+328,cloudy,distended small intestine,38.2,none,6.2,absent,depressed,60.0,adult,43.0,normal,
+329,,firm feces in large intestine,37.7,none,3.5,decreased,intermittent mild pain,40.0,adult,36.0,normal,normal
+330,,distended small intestine,39.1,,,absent,depressed,60.0,adult,,,normal
+331,,firm feces in large intestine,37.8,slight,7.5,absent,,48.0,adult,43.0,normal,normal
+332,serosanguinous,,39.0,slight,8.2,,depressed,120.0,adult,65.0,cold,reduced
+333,cloudy,distended large intestine,38.2,none,6.5,normal,continuous severe pain,76.0,adult,35.0,warm,reduced
+334,,,38.3,,,,,88.0,adult,,,
+335,,,38.0,,8.3,,,80.0,adult,48.0,cool,reduced
+336,cloudy,distended small intestine,,none,,absent,depressed,,adult,,cool,normal
+337,cloudy,normal,37.6,,,normal,alert no pain,40.0,adult,,normal,normal
+338,cloudy,,37.5,,5.8,,intermittent mild pain,44.0,adult,45.0,normal,normal
+339,clear,,38.2,,60.0,normal,alert no pain,42.0,adult,35.0,normal,normal
+340,cloudy,,38.0,slight,70.0,absent,,56.0,adult,47.0,cool,reduced
+341,,,38.3,slight,,absent,depressed,45.0,adult,,cool,reduced
+342,clear,distended small intestine,,slight,8.0,normal,,48.0,adult,42.0,normal,normal
+343,,distended large intestine,37.7,,,absent,depressed,55.0,adult,,warm,normal
+344,cloudy,distended large intestine,36.0,none,5.7,absent,depressed,100.0,adult,74.0,cold,reduced
+345,cloudy,distended small intestine,37.1,,8.5,decreased,intermittent mild pain,60.0,adult,64.0,warm,
+346,serosanguinous,firm feces in large intestine,37.1,,,,depressed,114.0,adult,32.0,cool,
+347,serosanguinous,distended large intestine,38.1,slight,56.0,decreased,intermittent severe pain,72.0,adult,37.0,cool,reduced
+348,serosanguinous,other,37.0,,6.7,absent,alert no pain,44.0,adult,40.0,cool,normal
+349,,,38.6,,75.0,decreased,intermittent severe pain,48.0,adult,37.0,cool,normal
+350,serosanguinous,distended small intestine,,,65.0,absent,depressed,82.0,adult,53.0,cool,normal
+351,serosanguinous,,38.2,,5.8,normal,intermittent mild pain,78.0,young,59.0,cold,absent
+352,,,37.8,none,73.0,decreased,depressed,60.0,adult,41.0,normal,normal
+353,,,38.7,,69.0,,depressed,34.0,adult,33.0,warm,
+354,,distended large intestine,,none,,normal,alert no pain,36.0,adult,44.0,normal,normal
+355,,,38.3,,36.0,,,44.0,adult,6.4,,
+356,cloudy,distended large intestine,37.4,slight,7.1,absent,intermittent mild pain,54.0,adult,30.0,cool,
+357,serosanguinous,,,,76.0,,depressed,,adult,54.0,cold,reduced
+358,,,36.6,none,56.0,,intermittent severe pain,48.0,adult,27.0,cool,normal
+359,,distended large intestine,38.5,slight,79.0,absent,intermittent mild pain,90.0,adult,47.0,normal,normal
+360,clear,,,,8.5,,continuous severe pain,75.0,adult,58.0,normal,normal
+361,cloudy,other,38.2,slight,5.9,decreased,alert no pain,42.0,adult,35.0,cool,normal
+362,serosanguinous,,38.2,,5.8,normal,intermittent mild pain,78.0,young,59.0,cold,absent
+363,clear,,38.6,none,6.0,,intermittent severe pain,60.0,adult,40.0,normal,normal
+364,,firm feces in large intestine,37.8,,6.2,decreased,alert no pain,42.0,adult,36.0,normal,normal
+365,serosanguinous,distended small intestine,38.0,none,65.0,normal,depressed,60.0,adult,44.0,normal,normal
+366,,normal,38.0,,5.8,,alert no pain,42.0,adult,37.0,cool,
+367,,,37.6,none,6.0,,intermittent mild pain,88.0,adult,44.0,cool,normal

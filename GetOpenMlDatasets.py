@@ -128,7 +128,7 @@ def refresh_catalog():
     return datasets
 
 
-def add_label_to_catalog():
+def add_tag_to_catalog():
     datasets = pd.read_csv("OpenMlDatasetCatalog")
     ids = datasets['did']
 
@@ -156,5 +156,5 @@ def add_label_to_catalog():
 
 if __name__ =="__main__":
     # get_rest(starting_id=1, threshold=10000, criterion='leq', show_messages=True, split_frac=0.5)
-    add_label_to_catalog()
+    add_tag_to_catalog()
     # refresh_catalog()

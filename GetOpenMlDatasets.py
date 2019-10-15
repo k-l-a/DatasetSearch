@@ -1,3 +1,4 @@
+import nltk
 import openml as oml
 import os
 import math
@@ -43,13 +44,15 @@ def get_rest(starting_id=1, threshold=None, criterion=None, show_messages=False,
     :param split_num: number of columns to split, defaults to None. If both split_frac and split_num are not None,
         choose the method so the number of split columns in sub-datasets is larger.
     :return: void
+    :exception: ValueError is
     """
     datasets = pd.read_csv("OpenMlDatasetCatalog")
     existing_files = os.listdir("OpenMlDatasets")
     existing_ids = [int(i.split("_")[-1].split('.')[0], 10) for i in existing_files]
     all_ids = datasets['did']
-    deprecated_ids = []
+    deprecated_ids = []  # TODO
     rest_ids = [i for i in all_ids if i >= starting_id and i not in existing_ids and i not in deprecated_ids]
+
     for id in rest_ids:
         if show_messages:
             print(id)
@@ -60,14 +63,18 @@ def get_rest(starting_id=1, threshold=None, criterion=None, show_messages=False,
                 print("deprecated dataset!")
             continue
         df, y, cat, cols = dataset.get_data(target=None, dataset_format='dataframe')
+
+        # check criterion
         if criterion == 'leq':
-            assert threshold is not None, "Threshold missing!"
+            if threshold < 0:
+                raise ValueError("threshold must be a positive number")
             if datasets[datasets.did == id].NumberOfInstances.sum() > 10000:
                 if show_messages:
                     print(id, 'more than', str(threshold), 'instances!')
                 continue
         elif criterion == 'geq':
-            assert threshold is not None, "Threshold missing!"
+            if threshold < 0:
+                raise ValueError("threshold must be a positive number")
             if datasets[datasets.did == id].NumberOfInstances.sum() > 10000:
                 if show_messages:
                     print(id, 'more than', str(threshold), 'instances!')
@@ -75,18 +82,25 @@ def get_rest(starting_id=1, threshold=None, criterion=None, show_messages=False,
                 continue
         else:
             pass
+
+        # add postfixes indicating numerical or categorical attributes
         postfixes = np.vectorize(lambda x: '_cat' if x else '_num')(cat).tolist()
         assert len(cols) == len(postfixes)
         df.columns = [cols[i] + postfixes[i] for i in range(len(cols))]
+
+        # move class column to the first column
         if y is None:
             cols = df.columns
             cols = cols[-1:].append(cols[:-1])
             df = df[cols]
         else:
             df['class'] = y
+
         file_name = dataset.name + "_" + str(id) + '_0' + ".csv"
         file_name = ''.join(c for c in file_name if c not in '<>:"|\/?*' )
         df.to_csv(os.path.join('OpenMlDatasets', file_name))
+
+        # split columns if either split_frac ot split_num is present
         if split_frac is not None and split_num is not None:
             if len(df.columns) * split_frac < split_num:
                 split_frac = None
@@ -116,10 +130,31 @@ def refresh_catalog():
 
 def add_label_to_catalog():
     datasets = pd.read_csv("OpenMlDatasetCatalog")
-    #TODO: retrieve labels
+    ids = datasets['did']
 
+    # add a 'tag' column
+    if not 'tag' in datasets.columns:
+        datasets['tag'] = ""
 
+    for id in ids:
+        tags = []
+        try:
+            dataset = oml.datasets.get_dataset(id, download_data=False)
+        except OpenMLServerException:
+            continue
+        tag = ' '.join([x.lower() for x in dataset.tag]) if dataset.tag is not None else ""
+        description = dataset.description.lower() if dataset.description is not None else ""
+        tokens = nltk.word_tokenize(tag + " " + description)
+        poses = nltk.pos_tag(tokens)
+        for token, pos in poses:
+            if pos == 'NN':
+                if token.replace(" ", "").isalpha():
+                    tags.append(token)
+        datasets.at[id, 'tag'] = str(tags)
+        datasets.to_csv("OpenMlDatasetCatalog")
 
 
 if __name__ =="__main__":
-    get_rest(starting_id=1, threshold=10000, criterion='leq', show_messages=True, split_frac=0.5, split_num=10)
+    # get_rest(starting_id=1, threshold=10000, criterion='leq', show_messages=True, split_frac=0.5)
+    add_label_to_catalog()
+    # refresh_catalog()

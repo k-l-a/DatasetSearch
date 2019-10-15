@@ -156,5 +156,5 @@ def add_tag_to_catalog():
 
 if __name__ =="__main__":
     # get_rest(starting_id=1, threshold=10000, criterion='leq', show_messages=True, split_frac=0.5)
-    add_tag_to_catalog()
-    # refresh_catalog()
+    # add_tag_to_catalog()
+    refresh_catalog()

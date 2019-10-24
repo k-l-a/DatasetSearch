@@ -1,0 +1,369 @@
+,abdominocentesis_appearance_cat,surgical_lesion_cat,abdomcentesis_total_protein_num,temp_extremities_cat,nasogastric_reflux_cat,rectal_examination_cat,rectal_temperature_num,abdominal_distension_cat,capillary_refill_time_cat,pulse_num,pain_cat,respiratory_rate_num
+0,,no,,cool,,decreased,38.5,severe,>=3,66.0,continuous severe pain,28.0
+1,cloudy,no,2.0,,,absent,39.2,slight,<3,88.0,intermittent mild pain,20.0
+2,,no,,normal,,normal,38.3,none,<3,40.0,intermittent mild pain,24.0
+3,serosanguinous,yes,5.3,cold,>1l,decreased,39.1,severe,>=3,164.0,depressed,84.0
+4,,no,,,,,37.3,,>=3,104.0,,35.0
+5,,no,,warm,none,decreased,,slight,<3,,depressed,
+6,,yes,,normal,none,decreased,37.9,moderate,<3,48.0,intermittent mild pain,16.0
+7,,yes,,cool,none,decreased,,slight,<3,60.0,,
+8,,yes,,cool,none,decreased,,severe,<3,80.0,intermittent severe pain,36.0
+9,clear,no,2.2,normal,none,decreased,38.3,none,<3,90.0,continuous severe pain,
+10,cloudy,yes,3.6,cool,none,increased,38.1,none,<3,66.0,intermittent mild pain,12.0
+11,,yes,,warm,none,absent,39.1,slight,<3,72.0,depressed,52.0
+12,,no,,warm,none,absent,37.2,moderate,<3,42.0,intermittent mild pain,12.0
+13,clear,no,,normal,,normal,38.0,slight,<3,92.0,alert no pain,28.0
+14,clear,yes,2.0,cool,>1l,absent,38.2,none,<3,76.0,intermittent mild pain,28.0
+15,,yes,,cool,<1l,absent,37.6,moderate,<3,96.0,continuous severe pain,48.0
+16,serosanguinous,no,4.7,cool,,absent,,moderate,>=3,128.0,intermittent severe pain,36.0
+17,,no,,,,,37.5,,,48.0,,24.0
+18,clear,yes,,normal,none,increased,37.6,none,<3,64.0,depressed,21.0
+19,,no,,cold,,,39.4,moderate,,110.0,,35.0
+20,cloudy,yes,,normal,none,absent,39.9,severe,>=3,72.0,continuous severe pain,60.0
+21,,no,,normal,<1l,absent,38.4,none,<3,48.0,alert no pain,16.0
+22,,yes,,warm,,normal,38.6,none,,42.0,depressed,34.0
+23,,yes,,,,,38.3,,<3,130.0,depressed,60.0
+24,,yes,,cool,>1l,,38.1,moderate,<3,60.0,,12.0
+25,,no,,,,,37.8,,<3,60.0,,42.0
+26,cloudy,yes,3.9,cold,none,decreased,38.3,moderate,>=3,72.0,intermittent mild pain,30.0
+27,cloudy,no,1.3,cool,none,normal,37.8,slight,<3,48.0,,12.0
+28,,no,,,,,,,,,,
+29,,no,,warm,none,,37.7,none,<3,48.0,alert no pain,
+30,,yes,,cool,>1l,absent,37.7,severe,>=3,96.0,continuous severe pain,30.0
+31,serosanguinous,yes,7.4,cool,<1l,decreased,37.2,slight,>=3,108.0,depressed,12.0
+32,,yes,,warm,none,absent,37.2,moderate,<3,60.0,intermittent mild pain,
+33,cloudy,yes,6.6,normal,,absent,38.2,,<3,64.0,intermittent mild pain,28.0
+34,,yes,,cool,<1l,absent,,severe,>=3,100.0,continuous severe pain,30.0
+35,,yes,,cold,<1l,,,moderate,>=3,104.0,intermittent severe pain,24.0
+36,cloudy,no,1.0,,>1l,,38.3,none,>=3,112.0,,16.0
+37,clear,yes,2.0,,none,normal,37.8,none,<3,72.0,continuous severe pain,
+38,clear,no,5.0,normal,none,normal,38.6,slight,<3,52.0,intermittent mild pain,
+39,,yes,,,,,39.2,,,146.0,,96.0
+40,serosanguinous,yes,,cool,<1l,absent,,moderate,>=3,88.0,continuous severe pain,
+41,,yes,0.1,,,,39.0,,,150.0,,72.0
+42,,no,,cool,none,increased,38.0,none,<3,60.0,intermittent mild pain,12.0
+43,cloudy,yes,2.0,cool,none,,,severe,<3,120.0,intermittent severe pain,
+44,serosanguinous,yes,2.0,cool,none,,35.4,,>=3,140.0,intermittent severe pain,24.0
+45,serosanguinous,yes,,cold,none,absent,,severe,>=3,120.0,continuous severe pain,
+46,,yes,,cool,>1l,absent,37.9,severe,>=3,60.0,continuous severe pain,15.0
+47,,no,,normal,none,normal,37.5,none,<3,48.0,alert no pain,16.0
+48,serosanguinous,yes,,cool,>1l,decreased,38.9,moderate,>=3,80.0,depressed,44.0
+49,cloudy,no,4.1,cool,>1l,increased,37.2,slight,>=3,84.0,intermittent severe pain,48.0
+50,clear,no,1.6,normal,none,,38.6,slight,<3,46.0,alert no pain,
+51,serosanguinous,yes,,normal,,absent,37.4,slight,>=3,84.0,intermittent mild pain,36.0
+52,,no,,normal,,increased,,none,<3,,alert no pain,
+53,,no,,,,,38.6,,<3,40.0,,20.0
+54,serosanguinous,yes,4.5,cool,none,normal,40.3,moderate,>=3,114.0,depressed,36.0
+55,cloudy,yes,,cool,,absent,38.6,severe,<3,160.0,intermittent mild pain,20.0
+56,,yes,,,,,,,,,,
+57,,yes,,warm,>1l,,,moderate,<3,64.0,continuous severe pain,36.0
+58,serosanguinous,yes,,cold,,absent,,moderate,,,continuous severe pain,20.0
+59,,yes,,cool,>1l,absent,,severe,>=3,96.0,continuous severe pain,
+60,,no,,normal,none,absent,37.8,,<3,48.0,depressed,32.0
+61,,no,,warm,none,normal,38.5,slight,<3,60.0,alert no pain,
+62,clear,yes,6.0,warm,,absent,37.8,,<3,88.0,intermittent mild pain,22.0
+63,cloudy,no,2.0,cold,none,,38.2,severe,>=3,130.0,depressed,16.0
+64,serosanguinous,yes,5.0,cool,>1l,absent,39.0,slight,>=3,64.0,intermittent mild pain,36.0
+65,cloudy,yes,1.0,cool,none,decreased,,slight,<3,60.0,intermittent mild pain,36.0
+66,clear,yes,2.0,normal,<1l,decreased,37.9,none,>=3,72.0,intermittent mild pain,
+67,clear,no,,normal,none,decreased,38.4,none,<3,54.0,alert no pain,24.0
+68,,no,,normal,<1l,,,,<3,52.0,,16.0
+69,cloudy,no,4.1,normal,none,decreased,38.0,,<3,48.0,alert no pain,12.0
+70,,yes,,cool,>1l,absent,37.0,moderate,<3,60.0,intermittent mild pain,20.0
+71,cloudy,no,7.0,normal,,normal,37.8,none,<3,48.0,alert no pain,28.0
+72,,yes,,,,,37.7,,,56.0,,
+73,cloudy,yes,2.6,normal,<1l,normal,38.1,none,<3,52.0,intermittent severe pain,24.0
+74,,yes,,,,,,,,,,
+75,cloudy,yes,2.0,cool,,,39.7,,>=3,100.0,depressed,
+76,,yes,,cool,,decreased,37.6,slight,<3,38.0,intermittent mild pain,20.0
+77,,no,,warm,none,normal,38.7,none,<3,52.0,alert no pain,20.0
+78,,yes,,cool,>1l,absent,,moderate,meaning unknown,,continuous severe pain,
+79,serosanguinous,yes,,normal,<1l,,37.5,slight,>=3,96.0,intermittent mild pain,18.0
+80,serosanguinous,yes,3.6,cool,,absent,36.4,slight,<3,98.0,intermittent severe pain,35.0
+81,serosanguinous,yes,2.0,,none,decreased,37.3,slight,<3,40.0,depressed,
+82,,yes,,cool,,normal,38.1,none,<3,100.0,intermittent mild pain,80.0
+83,,yes,,cool,none,,38.0,severe,>=3,,continuous severe pain,24.0
+84,cloudy,yes,,normal,>1l,absent,37.8,moderate,>=3,60.0,depressed,80.0
+85,,no,,warm,>1l,,38.0,slight,meaning unknown,54.0,intermittent mild pain,30.0
+86,serosanguinous,yes,1.4,cool,,absent,,moderate,>=3,88.0,continuous severe pain,40.0
+87,cloudy,yes,3.9,,,,,,<3,40.0,,16.0
+88,cloudy,no,2.3,normal,none,decreased,39.0,slight,<3,64.0,intermittent mild pain,40.0
+89,,no,,normal,,,38.3,none,<3,42.0,alert no pain,10.0
+90,,yes,,,<1l,normal,38.0,,,52.0,depressed,16.0
+91,serosanguinous,yes,4.5,cool,none,normal,40.3,moderate,>=3,114.0,depressed,36.0
+92,,no,,cool,none,decreased,38.8,none,<3,50.0,alert no pain,20.0
+93,,yes,,cool,none,absent,,moderate,<3,,continuous severe pain,
+94,,no,,cold,none,normal,37.5,none,<3,48.0,,30.0
+95,,yes,,,none,decreased,37.3,moderate,<3,48.0,intermittent mild pain,20.0
+96,,yes,,,none,decreased,,none,<3,84.0,,36.0
+97,,no,,cool,<1l,absent,38.1,moderate,<3,88.0,depressed,32.0
+98,,no,,warm,none,normal,37.7,slight,<3,44.0,alert no pain,40.0
+99,cloudy,no,2.6,cool,>1l,decreased,39.6,moderate,>=3,108.0,depressed,51.0
+100,,no,,cool,,normal,38.2,,<3,40.0,alert no pain,16.0
+101,,yes,,cold,none,absent,,,>=3,60.0,continuous severe pain,20.0
+102,,no,,cool,,,38.3,,<3,40.0,depressed,16.0
+103,,yes,,normal,,increased,38.0,slight,<3,140.0,intermittent mild pain,68.0
+104,clear,yes,3.7,normal,<1l,increased,37.8,none,<3,52.0,intermittent severe pain,24.0
+105,,yes,,normal,,absent,,slight,>=3,70.0,depressed,36.0
+106,,yes,,,none,normal,38.3,,<3,52.0,,96.0
+107,,no,,normal,,normal,37.3,slight,<3,50.0,alert no pain,32.0
+108,serosanguinous,yes,2.0,cold,,absent,38.7,severe,>=3,60.0,intermittent severe pain,32.0
+109,cloudy,yes,2.8,cool,none,,38.4,moderate,<3,84.0,intermittent mild pain,40.0
+110,,yes,,cool,none,absent,,slight,>=3,70.0,depressed,16.0
+111,clear,yes,2.0,cool,,,38.3,slight,<3,40.0,alert no pain,16.0
+112,,yes,,warm,none,,,none,<3,40.0,alert no pain,
+113,,yes,10.0,,,,36.8,,,60.0,,28.0
+114,,yes,,cool,none,absent,38.4,moderate,,44.0,continuous severe pain,24.0
+115,,no,,cool,,,,slight,<3,,intermittent mild pain,40.0
+116,,yes,,normal,none,absent,38.0,moderate,<3,44.0,intermittent mild pain,12.0
+117,clear,yes,,cool,<1l,absent,39.5,moderate,>=3,,intermittent mild pain,
+118,cloudy,yes,1.0,normal,none,,36.5,none,<3,78.0,continuous severe pain,30.0
+119,,no,,warm,none,,38.1,none,<3,56.0,alert no pain,20.0
+120,cloudy,yes,,normal,none,decreased,39.4,slight,<3,54.0,depressed,66.0
+121,cloudy,yes,1.0,,>1l,normal,38.3,none,>=3,80.0,intermittent severe pain,40.0
+122,clear,no,1.0,warm,,normal,38.7,none,<3,40.0,intermittent mild pain,28.0
+123,clear,yes,2.0,normal,none,absent,38.2,moderate,<3,64.0,intermittent severe pain,24.0
+124,,yes,,cool,none,normal,37.6,moderate,<3,48.0,alert no pain,20.0
+125,,yes,,cold,>1l,absent,38.0,slight,<3,42.0,intermittent mild pain,68.0
+126,cloudy,yes,,cool,,,38.7,slight,<3,,continuous severe pain,
+127,cloudy,yes,1.0,cool,none,normal,37.4,none,<3,50.0,intermittent severe pain,32.0
+128,,no,1.0,,,,37.4,moderate,<3,84.0,depressed,20.0
+129,,yes,,,none,,38.4,none,<3,49.0,,
+130,,yes,,,,,37.8,,,30.0,,12.0
+131,,yes,,cool,<1l,,37.6,slight,<3,88.0,intermittent mild pain,36.0
+132,cloudy,yes,1.0,cool,none,decreased,38.0,none,<3,48.0,intermittent severe pain,20.0
+133,,yes,,normal,,,37.9,none,<3,40.0,depressed,24.0
+134,,yes,,cool,,increased,,,>=3,100.0,continuous severe pain,
+135,cloudy,yes,2.9,cool,>1l,increased,38.1,moderate,<3,136.0,continuous severe pain,48.0
+136,,yes,,cool,>1l,absent,,moderate,>=3,,continuous severe pain,
+137,,yes,,normal,>1l,absent,38.0,severe,<3,48.0,alert no pain,
+138,,no,,normal,none,normal,38.0,none,<3,56.0,alert no pain,
+139,clear,no,1.0,normal,none,,38.0,,<3,60.0,intermittent mild pain,32.0
+140,,no,,cool,none,absent,38.1,none,<3,44.0,depressed,9.0
+141,,no,,,,,36.0,,<3,42.0,,30.0
+142,serosanguinous,yes,3.9,cold,,absent,,severe,>=3,120.0,continuous severe pain,
+143,cloudy,no,7.0,normal,,normal,37.8,none,>=3,48.0,alert no pain,28.0
+144,,no,,cool,>1l,absent,37.1,severe,<3,84.0,depressed,40.0
+145,,yes,,cool,none,decreased,,moderate,<3,80.0,depressed,32.0
+146,,yes,,normal,<1l,absent,38.2,severe,<3,48.0,intermittent mild pain,
+147,,yes,,warm,>1l,normal,38.0,moderate,<3,44.0,intermittent mild pain,12.0
+148,,yes,5.2,,<1l,absent,38.3,slight,>=3,132.0,depressed,
+149,,no,,,none,normal,38.7,,,48.0,alert no pain,24.0
+150,,no,,cool,,,38.9,slight,<3,44.0,depressed,14.0
+151,serosanguinous,yes,4.3,cold,<1l,absent,39.3,slight,>=3,,intermittent severe pain,
+152,serosanguinous,yes,2.0,cool,none,,,severe,>=3,100.0,,
+153,clear,no,,cool,none,decreased,38.6,slight,<3,48.0,alert no pain,20.0
+154,,yes,,normal,,,38.8,severe,<3,48.0,intermittent mild pain,40.0
+155,clear,no,,cool,,,38.0,slight,<3,48.0,alert no pain,20.0
+156,clear,no,5.0,normal,none,normal,38.6,slight,<3,52.0,intermittent mild pain,20.0
+157,,yes,,normal,<1l,,37.8,severe,>=3,60.0,,24.0
+158,,no,,cool,,,38.0,none,<3,42.0,intermittent mild pain,40.0
+159,cloudy,no,,normal,none,normal,,slight,<3,,depressed,12.0
+160,cloudy,yes,1.0,,none,,,,,,intermittent severe pain,
+161,,yes,,,,,38.3,,<3,42.0,,24.0
+162,clear,no,,cool,none,decreased,39.5,slight,>=3,60.0,intermittent mild pain,10.0
+163,serosanguinous,yes,2.0,normal,none,decreased,38.0,none,<3,66.0,continuous severe pain,20.0
+164,,yes,,normal,>1l,absent,38.7,slight,>=3,76.0,intermittent mild pain,
+165,clear,no,2.0,,,absent,39.4,moderate,<3,120.0,,48.0
+166,clear,no,,normal,,increased,38.3,none,<3,40.0,intermittent mild pain,18.0
+167,,no,,normal,none,,,none,<3,44.0,intermittent mild pain,24.0
+168,,yes,,normal,<1l,,38.4,slight,<3,104.0,depressed,40.0
+169,,yes,,,none,,,severe,>=3,65.0,continuous severe pain,24.0
+170,,no,,normal,,normal,37.5,none,<3,44.0,,20.0
+171,serosanguinous,yes,6.0,cool,>1l,,39.0,moderate,,86.0,intermittent mild pain,16.0
+172,serosanguinous,yes,2.0,cool,<1l,,38.5,moderate,<3,129.0,depressed,48.0
+173,cloudy,yes,3.4,cool,<1l,absent,,moderate,>=3,104.0,depressed,
+174,,yes,,cool,,,,severe,,,intermittent severe pain,
+175,,yes,,,,,,,,,,
+176,,yes,,normal,none,decreased,38.2,none,<3,60.0,intermittent mild pain,30.0
+177,cloudy,yes,2.8,,none,,,,<3,68.0,intermittent severe pain,14.0
+178,serosanguinous,yes,2.0,cool,none,absent,,severe,>=3,60.0,continuous severe pain,30.0
+179,,no,,cool,none,absent,38.5,severe,>=3,100.0,intermittent severe pain,
+180,serosanguinous,yes,,cool,<1l,absent,38.4,moderate,>=3,84.0,intermittent severe pain,30.0
+181,,no,,,<1l,normal,37.8,slight,<3,48.0,intermittent mild pain,14.0
+182,,yes,,cool,none,,38.0,severe,>=3,,continuous severe pain,24.0
+183,clear,no,1.0,normal,none,normal,37.8,none,<3,56.0,depressed,16.0
+184,,no,,warm,none,normal,38.2,none,<3,68.0,alert no pain,32.0
+185,,yes,,cold,,,38.5,,>=3,120.0,,60.0
+186,,yes,,warm,>1l,,39.3,none,<3,64.0,,90.0
+187,serosanguinous,yes,4.3,cold,<1l,absent,38.4,moderate,<3,80.0,intermittent mild pain,30.0
+188,clear,yes,,normal,,,38.5,none,<3,60.0,,
+189,clear,yes,3.0,cool,>1l,normal,38.3,none,<3,60.0,depressed,16.0
+190,serosanguinous,yes,,,none,decreased,37.1,none,<3,40.0,intermittent mild pain,8.0
+191,,no,,warm,,normal,,none,<3,100.0,intermittent severe pain,44.0
+192,clear,yes,2.0,normal,>1l,absent,38.2,moderate,<3,48.0,intermittent mild pain,18.0
+193,,yes,,cool,,,,severe,>=3,60.0,intermittent severe pain,48.0
+194,,no,,normal,,absent,37.9,none,<3,88.0,depressed,24.0
+195,,no,,cool,,normal,38.0,slight,,44.0,,12.0
+196,cloudy,no,2.3,normal,none,increased,38.5,none,>=3,60.0,depressed,20.0
+197,,yes,,cool,>1l,absent,38.5,slight,>=3,96.0,depressed,36.0
+198,,no,,normal,,decreased,38.3,none,>=3,60.0,alert no pain,20.0
+199,,no,,cool,,decreased,38.5,slight,<3,60.0,depressed,40.0
+200,cloudy,yes,,normal,none,decreased,37.3,moderate,<3,48.0,intermittent mild pain,12.0
+201,clear,yes,3.4,normal,none,decreased,38.5,moderate,<3,86.0,intermittent severe pain,
+202,serosanguinous,yes,2.0,,none,,37.5,,,48.0,,40.0
+203,,no,,normal,none,absent,37.2,none,<3,36.0,depressed,9.0
+204,clear,yes,3.0,cool,,,39.2,slight,<3,,intermittent severe pain,23.0
+205,,no,,cool,none,absent,38.5,severe,>=3,100.0,intermittent severe pain,
+206,,yes,,warm,none,decreased,38.5,moderate,>=3,96.0,intermittent severe pain,30.0
+207,,yes,,,,,,,,,,
+208,,yes,,cool,<1l,absent,37.8,moderate,>=3,88.0,,80.0
+209,clear,no,1.0,cool,,decreased,37.5,slight,<3,44.0,intermittent mild pain,10.0
+210,serosanguinous,yes,2.8,,,normal,37.9,slight,<3,68.0,depressed,20.0
+211,clear,yes,10.1,cold,none,absent,38.0,severe,<3,86.0,depressed,24.0
+212,clear,no,,normal,none,,38.9,moderate,>=3,120.0,intermittent mild pain,30.0
+213,cloudy,yes,1.5,cool,none,normal,37.6,slight,<3,45.0,,12.0
+214,cloudy,no,2.1,warm,,increased,38.6,none,<3,56.0,alert no pain,32.0
+215,,yes,,normal,none,normal,37.8,none,<3,40.0,alert no pain,12.0
+216,,no,,,,,,,,,,
+217,,yes,,,,,38.0,,>=3,76.0,,18.0
+218,,yes,,normal,,,38.1,,<3,40.0,depressed,36.0
+219,,yes,,cool,none,absent,,moderate,<3,52.0,intermittent mild pain,28.0
+220,cloudy,no,2.0,cold,,,39.2,,>=3,88.0,continuous severe pain,58.0
+221,cloudy,yes,2.0,cold,,absent,38.5,moderate,<3,92.0,depressed,40.0
+222,serosanguinous,yes,,cold,none,absent,,none,<3,112.0,depressed,13.0
+223,cloudy,yes,1.6,normal,,absent,37.7,slight,<3,66.0,intermittent mild pain,12.0
+224,,yes,,normal,none,decreased,38.8,none,<3,50.0,intermittent mild pain,14.0
+225,clear,no,8.0,normal,none,decreased,38.4,none,<3,54.0,alert no pain,24.0
+226,serosanguinous,yes,,cold,<1l,,39.2,moderate,>=3,120.0,depressed,20.0
+227,cloudy,yes,,,,,,,,,,
+228,serosanguinous,yes,2.0,cool,>1l,normal,37.3,moderate,>=3,90.0,continuous severe pain,40.0
+229,clear,yes,1.0,,,normal,38.5,,,120.0,,70.0
+230,,yes,,cool,,,38.5,severe,<3,104.0,intermittent severe pain,40.0
+231,,no,3.6,cool,<1l,absent,39.5,none,<3,92.0,continuous severe pain,28.0
+232,,yes,,,,,38.5,,,30.0,,18.0
+233,cloudy,yes,3.9,cold,none,decreased,38.3,moderate,>=3,72.0,intermittent mild pain,30.0
+234,,no,,cold,none,normal,37.5,none,<3,48.0,,30.0
+235,cloudy,yes,2.6,normal,<1l,normal,38.1,none,<3,52.0,intermittent severe pain,24.0
+236,,no,,normal,,normal,38.2,slight,<3,42.0,intermittent mild pain,26.0
+237,serosanguinous,no,1.0,warm,none,,37.9,none,<3,54.0,intermittent mild pain,42.0
+238,serosanguinous,yes,4.8,cool,<1l,,36.1,slight,<3,88.0,intermittent mild pain,
+239,,yes,,,,,38.1,,<3,70.0,continuous severe pain,22.0
+240,,yes,,cold,,absent,38.0,severe,>=3,90.0,continuous severe pain,30.0
+241,,no,,normal,none,normal,38.2,none,<3,52.0,alert no pain,16.0
+242,,yes,,normal,<1l,,,moderate,<3,36.0,continuous severe pain,32.0
+243,,yes,,normal,,normal,38.4,moderate,>=3,92.0,,20.0
+244,clear,yes,,normal,,,38.2,severe,<3,124.0,depressed,88.0
+245,,yes,,cool,none,absent,,severe,>=3,96.0,continuous severe pain,
+246,clear,yes,,cool,>1l,normal,37.6,severe,<3,68.0,intermittent severe pain,32.0
+247,,yes,,cool,none,decreased,38.1,moderate,<3,88.0,continuous severe pain,24.0
+248,serosanguinous,yes,,warm,,decreased,38.0,moderate,<3,108.0,intermittent severe pain,60.0
+249,,no,,warm,none,,38.2,none,>=3,48.0,intermittent mild pain,
+250,serosanguinous,yes,2.0,cold,<1l,,39.3,none,<3,100.0,depressed,51.0
+251,,yes,,cool,none,,36.6,none,<3,42.0,alert no pain,18.0
+252,serosanguinous,yes,,cool,none,absent,38.8,severe,<3,124.0,depressed,36.0
+253,serosanguinous,no,2.6,cool,,absent,,slight,>=3,112.0,continuous severe pain,24.0
+254,,yes,,cool,,absent,,severe,<3,80.0,intermittent severe pain,
+255,,yes,,normal,,increased,38.8,moderate,<3,184.0,intermittent severe pain,84.0
+256,cloudy,yes,2.0,warm,none,normal,37.5,none,<3,72.0,depressed,
+257,,yes,,cool,<1l,,38.7,,<3,96.0,,28.0
+258,clear,no,1.0,normal,none,decreased,37.5,slight,<3,52.0,depressed,12.0
+259,serosanguinous,yes,,cool,none,,40.8,none,<3,72.0,depressed,42.0
+260,,no,,,none,absent,38.0,slight,<3,40.0,intermittent severe pain,25.0
+261,,no,,warm,none,,38.4,slight,<3,48.0,alert no pain,16.0
+262,,no,,,,,38.6,,,88.0,,28.0
+263,serosanguinous,yes,3.2,,<1l,absent,37.1,slight,>=3,75.0,intermittent severe pain,36.0
+264,cloudy,yes,4.4,cool,none,normal,38.3,moderate,<3,44.0,intermittent mild pain,21.0
+265,,yes,,cool,none,normal,,none,<3,56.0,intermittent mild pain,68.0
+266,clear,no,,warm,none,normal,38.6,slight,<3,68.0,intermittent mild pain,20.0
+267,serosanguinous,no,,cool,<1l,,38.3,slight,<3,54.0,depressed,18.0
+268,,no,,,,decreased,38.2,,<3,42.0,,20.0
+269,,yes,,warm,>1l,normal,39.3,none,<3,64.0,,90.0
+270,,yes,,cool,>1l,decreased,37.5,slight,<3,60.0,intermittent mild pain,50.0
+271,serosanguinous,yes,2.0,cool,<1l,decreased,37.7,none,<3,80.0,continuous severe pain,
+272,,yes,,cool,<1l,absent,,severe,>=3,100.0,continuous severe pain,30.0
+273,serosanguinous,yes,,cool,none,,37.7,moderate,<3,120.0,continuous severe pain,28.0
+274,,yes,,,,,,severe,,76.0,,
+275,,yes,,normal,none,,38.8,slight,>=3,150.0,continuous severe pain,50.0
+276,cloudy,no,1.0,cool,<1l,decreased,38.0,slight,<3,36.0,intermittent severe pain,16.0
+277,,no,,warm,none,,36.9,slight,<3,50.0,alert no pain,40.0
+278,,no,,normal,,normal,37.8,none,<3,40.0,alert no pain,16.0
+279,clear,no,2.5,cold,>1l,,38.2,moderate,<3,56.0,depressed,40.0
+280,,no,,,,,38.6,,,48.0,alert no pain,12.0
+281,,yes,,cool,none,absent,40.0,none,<3,78.0,depressed,
+282,,yes,,cool,none,absent,,slight,>=3,70.0,depressed,16.0
+283,,yes,,,,,38.2,,,72.0,,18.0
+284,cloudy,no,7.0,normal,none,normal,38.5,none,<3,54.0,intermittent mild pain,
+285,clear,yes,,normal,none,absent,38.5,none,<3,66.0,intermittent mild pain,24.0
+286,,yes,,cool,<1l,,37.8,moderate,>=3,82.0,intermittent severe pain,12.0
+287,,no,,,,,39.5,,<3,84.0,,30.0
+288,,yes,,,,,,,,,,
+289,clear,yes,5.3,,,decreased,38.0,slight,<3,50.0,intermittent mild pain,36.0
+290,,no,,warm,,normal,38.6,,<3,45.0,alert no pain,16.0
+291,serosanguinous,yes,,cool,>1l,decreased,38.9,moderate,<3,80.0,depressed,44.0
+292,cloudy,yes,,normal,,normal,37.0,moderate,<3,66.0,intermittent severe pain,20.0
+293,,no,2.0,cool,none,,,,<3,78.0,,24.0
+294,,no,,normal,,decreased,38.5,none,<3,40.0,depressed,16.0
+295,,no,,cold,,,,,>=3,120.0,depressed,70.0
+296,serosanguinous,yes,3.3,cool,none,absent,37.2,moderate,>=3,72.0,intermittent severe pain,24.0
+297,,yes,,cold,none,decreased,37.5,moderate,<3,72.0,intermittent severe pain,30.0
+298,serosanguinous,yes,3.4,cool,none,absent,36.5,moderate,<3,100.0,intermittent mild pain,24.0
+299,clear,no,1.0,,,absent,37.2,,,40.0,,20.0
+300,,no,,,>1l,,38.5,none,>=3,54.0,intermittent mild pain,20.0
+301,clear,no,5.0,,,,37.6,,<3,48.0,,36.0
+302,serosanguinous,yes,2.0,,none,decreased,37.7,severe,>=3,44.0,continuous severe pain,28.0
+303,serosanguinous,no,2.0,cool,none,,37.0,moderate,>=3,56.0,intermittent severe pain,24.0
+304,,no,,cool,,,38.0,none,<3,42.0,alert no pain,12.0
+305,,yes,,cool,>1l,,,,<3,60.0,,40.0
+306,,no,,cool,>1l,normal,38.4,none,<3,80.0,intermittent mild pain,60.0
+307,clear,no,,warm,,increased,37.8,none,<3,48.0,intermittent mild pain,12.0
+308,,yes,,,,,38.0,,>=3,65.0,depressed,40.0
+309,serosanguinous,yes,,cool,none,decreased,37.9,none,>=3,45.0,depressed,36.0
+310,cloudy,yes,2.2,cool,>1l,,39.0,slight,<3,84.0,depressed,12.0
+311,cloudy,no,1.4,cool,<1l,absent,38.2,slight,>=3,60.0,intermittent mild pain,24.0
+312,,no,,,none,,,severe,>=3,140.0,continuous severe pain,
+313,serosanguinous,yes,1.8,cool,>1l,absent,37.9,severe,<3,120.0,continuous severe pain,60.0
+314,cloudy,no,2.0,normal,none,decreased,38.0,slight,<3,72.0,intermittent mild pain,36.0
+315,clear,no,1.1,normal,,,38.0,slight,<3,92.0,alert no pain,28.0
+316,,yes,,warm,>1l,absent,38.3,moderate,<3,66.0,depressed,30.0
+317,clear,no,2.8,cool,none,decreased,37.5,,<3,48.0,depressed,24.0
+318,clear,yes,,warm,,,37.5,moderate,<3,88.0,intermittent severe pain,20.0
+319,,yes,,cold,,,,severe,>=3,150.0,continuous severe pain,60.0
+320,,yes,,,,absent,39.7,moderate,>=3,100.0,intermittent severe pain,30.0
+321,cloudy,yes,4.6,cool,none,absent,38.3,moderate,>=3,80.0,continuous severe pain,
+322,clear,yes,1.1,cool,none,,37.5,moderate,<3,40.0,intermittent mild pain,32.0
+323,serosanguinous,yes,,cool,<1l,absent,38.4,moderate,>=3,84.0,intermittent severe pain,30.0
+324,,yes,5.7,cold,<1l,,38.1,none,>=3,84.0,continuous severe pain,44.0
+325,,no,,normal,,normal,38.7,none,<3,52.0,alert no pain,
+326,,no,,warm,,normal,38.1,none,<3,44.0,intermittent mild pain,40.0
+327,clear,no,1.0,warm,none,decreased,38.4,slight,<3,52.0,alert no pain,20.0
+328,cloudy,yes,3.9,normal,none,absent,38.2,none,<3,60.0,depressed,
+329,,no,,normal,none,decreased,37.7,none,,40.0,intermittent mild pain,18.0
+330,,yes,,,,absent,39.1,,,60.0,depressed,10.0
+331,,no,,normal,none,absent,37.8,none,<3,48.0,,16.0
+332,serosanguinous,no,4.6,cold,<1l,,39.0,moderate,>=3,120.0,depressed,
+333,cloudy,yes,0.9,warm,>1l,normal,38.2,moderate,<3,76.0,continuous severe pain,
+334,,no,,,,,38.3,,,88.0,,
+335,,yes,4.3,cool,,,38.0,,<3,80.0,,30.0
+336,cloudy,yes,,cool,<1l,absent,,moderate,<3,,depressed,
+337,cloudy,yes,2.1,normal,,normal,37.6,none,<3,40.0,alert no pain,
+338,cloudy,no,1.4,normal,,,37.5,slight,<3,44.0,intermittent mild pain,
+339,clear,no,1.0,normal,,normal,38.2,none,<3,42.0,alert no pain,16.0
+340,cloudy,no,1.0,cool,none,absent,38.0,none,,56.0,,44.0
+341,,no,,cool,,absent,38.3,none,>=3,45.0,depressed,20.0
+342,clear,yes,,normal,none,normal,,none,<3,48.0,,96.0
+343,,yes,,warm,<1l,absent,37.7,moderate,<3,55.0,depressed,28.0
+344,cloudy,yes,2.5,cold,none,absent,36.0,moderate,>=3,100.0,depressed,20.0
+345,cloudy,yes,,warm,>1l,decreased,37.1,moderate,<3,60.0,intermittent mild pain,20.0
+346,serosanguinous,no,6.5,cool,,,37.1,none,>=3,114.0,depressed,40.0
+347,serosanguinous,yes,1.0,cool,none,decreased,38.1,moderate,<3,72.0,intermittent severe pain,30.0
+348,serosanguinous,yes,8.0,cool,,absent,37.0,none,>=3,44.0,alert no pain,12.0
+349,,yes,,cool,,decreased,38.6,none,<3,48.0,intermittent severe pain,20.0
+350,serosanguinous,yes,2.0,cool,<1l,absent,,moderate,<3,82.0,depressed,72.0
+351,serosanguinous,yes,3.1,cold,,normal,38.2,moderate,,78.0,intermittent mild pain,60.0
+352,,no,,normal,>1l,decreased,37.8,slight,<3,60.0,depressed,16.0
+353,,yes,2.0,warm,,,38.7,,<3,34.0,depressed,30.0
+354,,yes,,normal,none,normal,,none,<3,36.0,alert no pain,12.0
+355,,yes,,,,,38.3,,<3,44.0,,60.0
+356,cloudy,yes,,cool,>1l,absent,37.4,moderate,<3,54.0,intermittent mild pain,18.0
+357,serosanguinous,yes,2.0,cold,,,,none,>=3,,depressed,
+358,,yes,,cool,none,,36.6,none,<3,48.0,intermittent severe pain,16.0
+359,,yes,,normal,<1l,absent,38.5,moderate,<3,90.0,intermittent mild pain,
+360,clear,yes,,normal,<1l,,,moderate,<3,75.0,continuous severe pain,12.0
+361,cloudy,no,,cool,none,decreased,38.2,slight,<3,42.0,alert no pain,
+362,serosanguinous,yes,3.1,cold,,normal,38.2,moderate,,78.0,intermittent mild pain,60.0
+363,clear,yes,,normal,none,,38.6,slight,<3,60.0,intermittent severe pain,30.0
+364,,no,,normal,,decreased,37.8,none,<3,42.0,alert no pain,40.0
+365,serosanguinous,yes,2.0,normal,none,normal,38.0,none,<3,60.0,depressed,12.0
+366,,no,,cool,,,38.0,none,<3,42.0,alert no pain,12.0
+367,,yes,,cool,<1l,,37.6,slight,<3,88.0,intermittent mild pain,36.0

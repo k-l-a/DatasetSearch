@@ -1,0 +1,215 @@
+,Al_num,RI_num,Si_num,Type_cat,Ca_num
+0,1.12,1.51793,73.03,build wind float,8.77
+1,1.35,1.51643,72.89,vehic wind float,8.53
+2,1.41,1.51793,72.64,build wind float,8.43
+3,1.54,1.51299,74.55,tableware,7.59
+4,1.0,1.53393,70.16,build wind non-float,16.19
+5,1.44,1.51655,73.27,build wind non-float,8.79
+6,0.65,1.51779,73.0,vehic wind float,8.93
+7,1.28,1.51837,72.85,build wind float,9.07
+8,2.68,1.51545,73.39,headlamps,9.07
+9,1.3,1.51789,72.33,build wind non-float,8.44
+10,1.49,1.51625,72.72,build wind non-float,8.21
+11,1.16,1.51743,73.55,build wind non-float,8.9
+12,0.79,1.52223,71.99,build wind float,10.02
+13,0.58,1.52121,71.79,vehic wind float,9.65
+14,1.76,1.51665,72.48,vehic wind float,8.38
+15,1.71,1.51707,72.52,build wind non-float,7.99
+16,2.0,1.51719,73.02,headlamps,8.53
+17,1.49,1.51629,73.28,build wind non-float,8.24
+18,1.76,1.51994,73.03,containers,11.32
+19,1.43,1.51811,72.92,build wind non-float,8.79
+20,0.87,1.52152,72.22,build wind float,9.85
+21,1.88,1.52475,72.19,build wind non-float,13.24
+22,1.11,1.51841,72.28,build wind non-float,8.96
+23,1.19,1.51754,72.79,build wind float,8.27
+24,2.17,1.52058,72.18,containers,9.7
+25,1.47,1.51569,73.25,build wind non-float,8.03
+26,1.9,1.5159,72.86,build wind non-float,7.97
+27,1.98,1.51683,73.29,headlamps,8.52
+28,1.48,1.51687,72.84,build wind non-float,8.1
+29,1.34,1.5161,72.67,vehic wind float,8.33
+30,1.64,1.51674,73.14,build wind non-float,7.99
+31,1.54,1.51832,72.14,vehic wind float,8.99
+32,0.34,1.51115,75.41,tableware,6.65
+33,1.54,1.51645,72.39,build wind non-float,8.03
+34,1.36,1.51755,72.99,build wind float,8.4
+35,1.56,1.51571,73.2,build wind float,8.09
+36,1.62,1.51596,72.97,build wind float,8.07
+37,1.63,1.5173,72.87,build wind non-float,9.23
+38,1.44,1.51662,73.01,build wind non-float,8.23
+39,2.08,1.51409,72.28,build wind non-float,7.08
+40,1.35,1.51797,72.96,build wind float,8.68
+41,1.08,1.51806,73.07,build wind non-float,8.38
+42,1.54,1.51627,72.83,build wind non-float,8.04
+43,1.47,1.5159,73.1,build wind non-float,8.22
+44,0.75,1.51934,72.65,vehic wind float,8.89
+45,1.2,1.51755,73.2,build wind float,8.64
+46,3.5,1.51514,69.89,containers,5.87
+47,1.29,1.51766,72.61,build wind float,8.22
+48,1.28,1.51784,72.86,build wind float,8.49
+49,1.15,1.52177,72.75,build wind non-float,8.52
+50,1.38,1.51753,73.39,build wind float,8.55
+51,1.07,1.51851,72.83,build wind non-float,8.41
+52,1.14,1.51743,73.09,build wind float,8.17
+53,1.52,1.51593,73.1,build wind non-float,7.83
+54,2.74,1.5164,72.85,headlamps,9.45
+55,1.69,1.51735,72.73,build wind float,8.44
+56,2.06,1.52247,70.26,headlamps,9.76
+57,1.12,1.52099,71.96,build wind float,9.4
+58,1.11,1.51769,72.77,vehic wind float,8.6
+59,1.33,1.51846,72.38,build wind non-float,8.28
+60,1.27,1.51848,71.96,build wind non-float,8.32
+61,1.11,1.51905,72.64,build wind float,8.76
+62,1.21,1.51567,72.74,build wind float,8.57
+63,0.47,1.52213,71.77,build wind float,9.57
+64,0.51,1.5232,71.75,build wind float,10.06
+65,2.54,1.51556,73.23,headlamps,9.41
+66,1.28,1.51926,72.36,build wind float,9.14
+67,0.91,1.52211,71.36,vehic wind float,9.14
+68,2.1,1.53125,69.81,build wind non-float,13.3
+69,0.87,1.52152,72.32,build wind float,9.85
+70,1.62,1.51829,72.38,tableware,9.26
+71,1.26,1.51892,72.55,build wind non-float,8.21
+72,1.74,1.51888,72.5,tableware,9.95
+73,1.41,1.51829,72.33,build wind non-float,8.31
+74,0.82,1.523,71.99,build wind float,10.17
+75,1.47,1.51652,72.45,build wind non-float,7.96
+76,1.43,1.51768,73.15,build wind float,8.54
+77,1.12,1.51215,72.98,build wind float,8.35
+78,1.26,1.51646,73.01,vehic wind float,8.58
+79,1.33,1.51721,73.04,build wind float,8.43
+80,1.27,1.51763,73.01,build wind float,8.56
+81,1.24,1.51742,73.08,build wind float,8.07
+82,0.83,1.52127,71.5,vehic wind float,9.49
+83,1.33,1.51779,72.76,build wind float,8.59
+84,1.56,1.52171,72.86,containers,11.41
+85,1.54,1.518,71.81,build wind non-float,8.21
+86,0.67,1.52777,72.02,build wind non-float,14.4
+87,1.49,1.5175,72.75,build wind float,8.52
+88,1.21,1.51764,73.0,build wind float,8.53
+89,1.36,1.52177,72.19,build wind non-float,11.14
+90,1.87,1.51645,73.11,headlamps,8.67
+91,1.19,1.51786,72.95,build wind float,8.76
+92,0.9,1.52152,72.2,build wind float,9.82
+93,1.19,1.51937,72.76,tableware,9.77
+94,2.42,1.51514,73.72,headlamps,8.39
+95,0.9,1.52172,72.01,build wind float,9.61
+96,1.8,1.51732,72.99,headlamps,8.61
+97,1.63,1.5202,71.76,build wind non-float,10.56
+98,1.45,1.51605,73.06,build wind non-float,8.27
+99,1.19,1.51847,72.44,build wind non-float,8.43
+100,1.36,1.51761,72.73,build wind float,7.83
+101,1.53,1.51673,72.53,build wind non-float,8.03
+102,1.31,1.52365,70.43,headlamps,8.61
+103,1.99,1.51685,73.06,headlamps,8.4
+104,1.99,1.51658,73.11,headlamps,8.28
+105,3.04,1.51316,70.48,containers,6.96
+106,1.79,1.51709,72.72,build wind non-float,8.18
+107,2.34,1.51727,73.28,headlamps,8.95
+108,1.23,1.51898,72.08,build wind float,8.91
+109,1.65,1.51969,73.75,containers,11.53
+110,0.83,1.5182,73.81,build wind non-float,9.42
+111,2.27,1.51617,73.3,headlamps,8.71
+112,1.18,1.51911,72.12,build wind float,8.89
+113,1.94,1.51651,73.61,headlamps,8.48
+114,1.31,1.51694,72.61,vehic wind float,8.79
+115,1.23,1.52315,72.38,headlamps,8.83
+116,1.67,1.52068,72.18,build wind non-float,9.57
+117,2.22,1.51838,71.25,headlamps,5.79
+118,0.56,1.51818,74.45,build wind non-float,10.99
+119,1.29,1.51769,73.7,build wind float,9.06
+120,1.23,1.5166,72.97,build wind non-float,8.81
+121,1.4,1.51589,73.28,build wind float,8.05
+122,1.17,1.5241,71.15,build wind non-float,10.79
+123,0.66,1.52725,70.57,build wind non-float,11.64
+124,1.51,1.52119,73.39,containers,11.27
+125,1.27,1.51748,73.21,build wind float,8.38
+126,1.19,1.51653,75.18,headlamps,8.93
+127,2.88,1.51623,72.61,headlamps,9.18
+128,1.1,1.52101,71.78,build wind float,8.75
+129,1.31,1.51763,73.29,build wind float,8.5
+130,1.54,1.51596,73.11,build wind non-float,7.9
+131,1.54,1.51674,73.36,build wind non-float,7.9
+132,2.02,1.52065,73.42,headlamps,8.44
+133,1.3,1.51768,73.08,build wind float,8.69
+134,1.58,1.52369,72.22,containers,12.24
+135,1.05,1.51756,73.24,build wind float,8.24
+136,1.17,1.51754,72.99,build wind float,8.03
+137,1.57,1.51711,72.96,build wind non-float,8.11
+138,0.72,1.5221,71.76,build wind float,9.74
+139,1.55,1.51594,72.87,build wind non-float,8.05
+140,1.16,1.51784,73.11,build wind float,8.7
+141,1.32,1.51909,71.81,build wind float,8.78
+142,1.32,1.51977,71.72,build wind float,8.67
+143,1.83,1.51666,73.88,containers,10.17
+144,1.57,1.51631,72.87,build wind non-float,7.89
+145,1.56,1.51872,72.51,build wind non-float,8.55
+146,1.81,1.51708,72.06,build wind non-float,7.88
+147,1.43,1.52081,71.99,build wind non-float,9.85
+148,1.74,1.51574,71.87,build wind non-float,7.36
+149,1.18,1.51813,72.49,build wind non-float,8.15
+150,1.81,1.51131,72.81,headlamps,5.43
+151,0.78,1.52227,71.35,build wind float,9.69
+152,1.36,1.52614,71.24,build wind non-float,13.44
+153,1.25,1.51811,72.78,build wind non-float,8.12
+154,1.28,1.51655,72.64,vehic wind float,8.65
+155,1.35,1.51751,73.02,build wind float,8.59
+156,2.25,1.51508,73.5,headlamps,8.34
+157,1.86,1.51915,72.69,containers,10.09
+158,0.29,1.51966,72.02,build wind float,9.0
+159,1.32,1.51844,72.4,build wind non-float,8.42
+160,0.77,1.52664,73.21,build wind non-float,14.68
+161,0.88,1.52172,71.79,build wind float,9.54
+162,2.38,1.51602,73.28,headlamps,8.76
+163,3.02,1.51321,70.7,containers,6.93
+164,0.75,1.52739,73.08,build wind non-float,14.96
+165,0.47,1.52213,71.77,build wind float,9.57
+166,1.14,1.51747,73.27,build wind float,8.55
+167,1.24,1.51839,72.57,build wind non-float,8.68
+168,1.25,1.51646,72.81,build wind non-float,8.1
+169,2.51,1.51609,73.05,headlamps,8.83
+170,1.26,1.51667,72.75,build wind non-float,8.6
+171,1.58,1.51588,73.26,build wind non-float,8.39
+172,0.71,1.52667,71.57,build wind float,9.82
+173,1.82,1.51831,72.86,headlamps,6.47
+174,1.37,1.51918,72.08,build wind float,8.3
+175,1.79,1.51613,73.1,headlamps,8.67
+176,0.89,1.52196,71.36,build wind float,9.15
+177,1.29,1.51824,72.95,build wind float,8.43
+178,1.56,1.52151,73.44,containers,11.62
+179,0.56,1.51969,73.48,tableware,11.22
+180,1.48,1.51618,72.89,build wind non-float,8.12
+181,1.52,1.51645,72.65,build wind non-float,8.08
+182,1.63,1.51796,71.94,vehic wind float,8.81
+183,1.0,1.52222,72.67,build wind non-float,11.52
+184,1.34,1.51783,72.95,build wind float,8.75
+185,2.08,1.51711,73.36,headlamps,8.62
+186,1.29,1.51736,72.79,build wind float,8.7
+187,1.19,1.51808,72.84,build wind float,9.03
+188,1.38,1.5167,72.7,vehic wind float,8.44
+189,1.4,1.52043,72.25,containers,12.5
+190,1.35,1.519,71.95,build wind float,9.0
+191,1.29,1.51778,72.98,build wind float,9.02
+192,1.56,1.51905,72.37,tableware,9.57
+193,2.66,1.51531,73.1,headlamps,9.08
+194,2.09,1.51916,72.74,tableware,10.88
+195,1.06,1.51841,72.34,build wind non-float,9.13
+196,1.51,1.5159,73.12,build wind non-float,7.96
+197,1.43,1.51593,73.17,build wind non-float,7.86
+198,1.87,1.5164,73.23,build wind non-float,8.08
+199,1.62,1.51663,72.96,build wind non-float,8.03
+200,1.61,1.5169,72.54,build wind non-float,8.11
+201,1.18,1.51869,72.72,build wind float,8.83
+202,1.52,1.51776,72.04,vehic wind float,8.79
+203,1.23,1.51775,72.97,build wind float,8.56
+204,1.43,1.5186,72.26,build wind non-float,8.6
+205,1.15,1.5172,72.85,build wind float,8.43
+206,2.79,1.51623,73.46,headlamps,9.04
+207,1.54,1.51618,72.99,build wind float,7.78
+208,1.23,1.51761,73.24,build wind float,8.39
+209,1.22,1.5161,72.69,vehic wind float,8.32
+210,2.12,1.51592,72.66,build wind non-float,7.97
+211,1.25,1.51613,72.88,build wind non-float,7.94
+212,1.71,1.51689,73.21,build wind non-float,8.54
+213,1.66,1.51852,72.67,tableware,9.32

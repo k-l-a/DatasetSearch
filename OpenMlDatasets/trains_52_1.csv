@@ -1,0 +1,11 @@
+,length_4_cat,length_5_cat,num_wheels_2_cat,Triangle_next_to_triangle_cat,Hexagon_next_to_circle_cat,Rectangle_next_to_circle_cat,shape_5_cat,Rectangle_next_to_hexagon_cat,Rectangle_next_to_triangle_cat,Hexagon_next_to_hexagon_cat,load_shape_4_cat,load_shape_5_cat,length_2_cat,Number_of_different_loads_cat,num_loads_5_cat,Rectangle_next_to_rectangle_cat
+0,long,short,2,0,1,0,openrect,0,1,0,hexagonlod,circlelod,long,4,1,0
+1,short,,2,0,0,1,,0,1,0,circlelod,,short,3,,0
+2,long,,2,1,0,0,,0,0,0,trianglod,,short,2,,0
+3,short,short,2,1,0,0,openrect,0,1,0,rectanglod,rectanglod,short,2,1,1
+4,short,,2,0,0,1,,0,1,0,circlelod,,short,3,,0
+5,,,2,0,0,0,,0,0,0,,,long,2,,0
+6,long,,2,0,0,0,,0,0,0,,,short,2,,0
+7,,,3,0,0,1,,0,0,0,,,long,2,,0
+8,short,short,2,0,0,1,opentrap,0,0,0,rectanglod,circlelod,short,2,1,1
+9,,,2,0,0,0,,0,0,0,,,short,1,,1

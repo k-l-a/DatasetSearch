@@ -1,0 +1,1001 @@
+,housing_cat,other_parties_cat,credit_history_cat,num_dependents_num,job_cat,other_payment_plans_cat,existing_credits_num,purpose_cat,duration_num,savings_status_cat
+0,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,no known savings
+1,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,48.0,<100
+2,own,none,critical/other existing credit,2.0,unskilled resident,none,1.0,education,12.0,<100
+3,for free,guarantor,existing paid,2.0,skilled,none,1.0,furniture/equipment,42.0,<100
+4,for free,none,delayed previously,2.0,skilled,none,2.0,new car,24.0,<100
+5,for free,none,existing paid,2.0,unskilled resident,none,1.0,education,36.0,no known savings
+6,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,500<=X<1000
+7,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,36.0,<100
+8,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,12.0,>=1000
+9,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,new car,30.0,<100
+10,rent,none,existing paid,1.0,skilled,none,1.0,new car,12.0,<100
+11,rent,none,existing paid,1.0,skilled,none,1.0,business,48.0,<100
+12,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+13,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,24.0,<100
+14,rent,none,existing paid,1.0,skilled,none,1.0,new car,15.0,<100
+15,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,24.0,100<=X<500
+16,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,24.0,no known savings
+17,own,none,no credits/all paid,1.0,skilled,bank,3.0,business,30.0,no known savings
+18,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,<100
+19,own,none,existing paid,2.0,skilled,none,1.0,radio/tv,24.0,500<=X<1000
+20,own,none,critical/other existing credit,1.0,skilled,none,3.0,new car,9.0,<100
+21,rent,none,existing paid,2.0,skilled,none,1.0,radio/tv,6.0,500<=X<1000
+22,rent,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,10.0,<100
+23,own,none,critical/other existing credit,1.0,skilled,none,1.0,used car,12.0,100<=X<500
+24,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,10.0,no known savings
+25,own,none,existing paid,1.0,unskilled resident,bank,1.0,furniture/equipment,6.0,<100
+26,own,none,no credits/all paid,1.0,unskilled resident,none,1.0,radio/tv,6.0,<100
+27,rent,none,all paid,1.0,skilled,none,2.0,radio/tv,12.0,>=1000
+28,own,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,7.0,<100
+29,own,none,delayed previously,1.0,skilled,none,2.0,business,60.0,<100
+30,own,none,existing paid,1.0,skilled,bank,1.0,business,18.0,>=1000
+31,own,none,existing paid,1.0,skilled,stores,1.0,furniture/equipment,24.0,<100
+32,own,none,existing paid,1.0,skilled,none,2.0,new car,18.0,100<=X<500
+33,rent,none,critical/other existing credit,1.0,unskilled resident,none,1.0,business,12.0,no known savings
+34,own,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,furniture/equipment,12.0,<100
+35,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,45.0,<100
+36,for free,none,critical/other existing credit,1.0,skilled,bank,1.0,education,48.0,<100
+37,own,co applicant,existing paid,1.0,skilled,stores,1.0,radio/tv,18.0,<100
+38,own,none,existing paid,1.0,skilled,none,1.0,domestic appliance,10.0,<100
+39,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,<100
+40,own,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,radio/tv,30.0,500<=X<1000
+41,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,500<=X<1000
+42,own,none,delayed previously,2.0,unskilled resident,none,1.0,repairs,18.0,<100
+43,rent,none,critical/other existing credit,1.0,skilled,none,2.0,used car,30.0,100<=X<500
+44,for free,none,critical/other existing credit,1.0,unskilled resident,stores,2.0,used car,48.0,<100
+45,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,new car,11.0,<100
+46,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,500<=X<1000
+47,rent,none,existing paid,1.0,unemp/unskilled non res,none,1.0,used car,6.0,500<=X<1000
+48,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,11.0,<100
+49,own,co applicant,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,100<=X<500
+50,own,none,delayed previously,1.0,unskilled resident,bank,1.0,furniture/equipment,24.0,no known savings
+51,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,2.0,used car,27.0,<100
+52,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+53,own,none,existing paid,1.0,skilled,none,1.0,used car,18.0,no known savings
+54,for free,none,delayed previously,1.0,skilled,bank,2.0,new car,36.0,<100
+55,own,guarantor,all paid,2.0,unskilled resident,stores,1.0,new car,6.0,no known savings
+56,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,12.0,no known savings
+57,own,none,critical/other existing credit,1.0,skilled,stores,2.0,radio/tv,36.0,<100
+58,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,18.0,<100
+59,rent,co applicant,critical/other existing credit,1.0,unskilled resident,none,2.0,furniture/equipment,36.0,<100
+60,own,none,existing paid,1.0,skilled,bank,1.0,business,9.0,<100
+61,own,guarantor,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,15.0,no known savings
+62,for free,none,no credits/all paid,1.0,high qualif/self emp/mgmt,none,1.0,business,36.0,<100
+63,own,none,no credits/all paid,1.0,skilled,none,1.0,business,48.0,<100
+64,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+65,own,none,existing paid,2.0,skilled,none,4.0,repairs,27.0,no known savings
+66,own,none,existing paid,1.0,skilled,bank,1.0,radio/tv,12.0,<100
+67,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,>=1000
+68,for free,none,existing paid,1.0,skilled,stores,1.0,education,36.0,<100
+69,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,no known savings
+70,own,none,existing paid,1.0,skilled,bank,1.0,used car,36.0,<100
+71,rent,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,7.0,no known savings
+72,for free,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,bank,2.0,other,8.0,<100
+73,own,none,critical/other existing credit,1.0,unskilled resident,bank,2.0,business,42.0,<100
+74,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,education,36.0,no known savings
+75,for free,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,used car,12.0,<100
+76,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,42.0,<100
+77,own,none,delayed previously,1.0,skilled,none,1.0,radio/tv,11.0,<100
+78,own,none,no credits/all paid,2.0,unskilled resident,none,1.0,used car,54.0,no known savings
+79,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,30.0,<100
+80,own,none,existing paid,1.0,skilled,none,2.0,radio/tv,24.0,no known savings
+81,own,none,existing paid,1.0,skilled,stores,1.0,radio/tv,15.0,500<=X<1000
+82,rent,none,existing paid,1.0,unskilled resident,none,1.0,business,18.0,100<=X<500
+83,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,other,24.0,<100
+84,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,10.0,<100
+85,own,guarantor,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,business,12.0,<100
+86,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,18.0,<100
+87,for free,none,existing paid,2.0,skilled,none,1.0,education,36.0,100<=X<500
+88,own,none,existing paid,2.0,high qualif/self emp/mgmt,none,1.0,new car,18.0,100<=X<500
+89,own,none,no credits/all paid,1.0,skilled,none,2.0,repairs,12.0,<100
+90,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,12.0,<100
+91,own,none,critical/other existing credit,1.0,skilled,none,1.0,used car,12.0,<100
+92,own,none,critical/other existing credit,2.0,unskilled resident,bank,1.0,radio/tv,12.0,no known savings
+93,rent,co applicant,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,24.0,no known savings
+94,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,>=1000
+95,rent,none,no credits/all paid,1.0,skilled,none,1.0,business,54.0,<100
+96,own,none,critical/other existing credit,1.0,skilled,none,1.0,education,12.0,no known savings
+97,own,none,existing paid,1.0,skilled,none,1.0,business,18.0,100<=X<500
+98,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,36.0,<100
+99,rent,none,delayed previously,2.0,high qualif/self emp/mgmt,bank,2.0,used car,20.0,no known savings
+100,rent,none,existing paid,1.0,unskilled resident,none,1.0,new car,24.0,100<=X<500
+101,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+102,own,none,delayed previously,1.0,skilled,none,1.0,radio/tv,6.0,<100
+103,rent,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,9.0,<100
+104,rent,none,existing paid,1.0,skilled,none,1.0,used car,12.0,no known savings
+105,own,co applicant,critical/other existing credit,2.0,high qualif/self emp/mgmt,none,2.0,other,24.0,<100
+106,own,none,all paid,2.0,high qualif/self emp/mgmt,bank,2.0,new car,18.0,<100
+107,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,<100
+108,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,no known savings
+109,own,none,existing paid,1.0,skilled,none,1.0,business,14.0,500<=X<1000
+110,own,none,delayed previously,2.0,skilled,bank,2.0,business,6.0,100<=X<500
+111,rent,none,existing paid,1.0,skilled,none,1.0,education,15.0,<100
+112,rent,none,existing paid,1.0,unskilled resident,none,1.0,new car,18.0,<100
+113,own,none,critical/other existing credit,1.0,skilled,stores,2.0,new car,36.0,<100
+114,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,500<=X<1000
+115,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,48.0,no known savings
+116,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,42.0,no known savings
+117,rent,co applicant,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,10.0,no known savings
+118,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,33.0,500<=X<1000
+119,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,new car,12.0,500<=X<1000
+120,own,none,existing paid,1.0,skilled,none,2.0,radio/tv,21.0,<100
+121,rent,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,used car,24.0,<100
+122,rent,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+123,for free,none,critical/other existing credit,1.0,skilled,none,2.0,new car,10.0,<100
+124,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,no known savings
+125,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,12.0,<100
+126,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,12.0,<100
+127,own,none,existing paid,1.0,skilled,none,1.0,repairs,12.0,<100
+128,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,used car,12.0,<100
+129,own,co applicant,critical/other existing credit,1.0,skilled,none,2.0,new car,12.0,<100
+130,own,none,existing paid,1.0,skilled,none,1.0,new car,48.0,no known savings
+131,own,none,delayed previously,1.0,skilled,stores,1.0,education,36.0,<100
+132,own,none,existing paid,1.0,unskilled resident,bank,2.0,furniture/equipment,15.0,<100
+133,for free,none,existing paid,1.0,skilled,bank,2.0,furniture/equipment,18.0,<100
+134,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,60.0,100<=X<500
+135,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,12.0,no known savings
+136,own,none,delayed previously,1.0,skilled,none,2.0,used car,27.0,>=1000
+137,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,12.0,500<=X<1000
+138,own,guarantor,critical/other existing credit,1.0,skilled,bank,3.0,radio/tv,15.0,no known savings
+139,rent,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,12.0,<100
+140,own,none,existing paid,1.0,unemp/unskilled non res,none,1.0,new car,6.0,>=1000
+141,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,36.0,<100
+142,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,27.0,<100
+143,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+144,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,21.0,<100
+145,own,none,all paid,1.0,skilled,none,1.0,business,48.0,100<=X<500
+146,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,6.0,<100
+147,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,12.0,100<=X<500
+148,own,guarantor,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,36.0,<100
+149,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,>=1000
+150,for free,none,existing paid,2.0,skilled,bank,1.0,radio/tv,6.0,100<=X<500
+151,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,10.0,<100
+152,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+153,rent,none,critical/other existing credit,1.0,skilled,none,1.0,used car,24.0,>=1000
+154,rent,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,business,24.0,100<=X<500
+155,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+156,own,guarantor,critical/other existing credit,2.0,skilled,none,2.0,repairs,9.0,100<=X<500
+157,own,none,all paid,1.0,unskilled resident,bank,1.0,retraining,12.0,<100
+158,own,none,existing paid,1.0,skilled,bank,2.0,new car,24.0,100<=X<500
+159,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,radio/tv,6.0,no known savings
+160,own,none,critical/other existing credit,2.0,skilled,none,1.0,radio/tv,24.0,100<=X<500
+161,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,18.0,<100
+162,own,none,existing paid,1.0,skilled,none,2.0,domestic appliance,15.0,500<=X<1000
+163,for free,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,new car,10.0,<100
+164,own,none,existing paid,1.0,skilled,none,1.0,new car,36.0,500<=X<1000
+165,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,6.0,500<=X<1000
+166,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+167,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,11.0,>=1000
+168,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+169,own,none,critical/other existing credit,1.0,skilled,none,2.0,business,24.0,<100
+170,rent,none,no credits/all paid,2.0,skilled,none,2.0,new car,15.0,<100
+171,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+172,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,24.0,<100
+173,own,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,8.0,<100
+174,own,none,delayed previously,1.0,skilled,none,2.0,education,21.0,<100
+175,own,none,all paid,1.0,high qualif/self emp/mgmt,bank,1.0,used car,30.0,no known savings
+176,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+177,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,500<=X<1000
+178,rent,none,existing paid,2.0,high qualif/self emp/mgmt,none,2.0,radio/tv,12.0,<100
+179,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,21.0,<100
+180,own,none,delayed previously,1.0,skilled,none,2.0,business,36.0,<100
+181,own,none,delayed previously,1.0,high qualif/self emp/mgmt,stores,2.0,business,36.0,<100
+182,own,none,all paid,2.0,unskilled resident,none,2.0,new car,21.0,no known savings
+183,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,24.0,>=1000
+184,own,none,critical/other existing credit,2.0,skilled,bank,1.0,new car,18.0,<100
+185,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,15.0,<100
+186,for free,none,all paid,2.0,high qualif/self emp/mgmt,bank,1.0,used car,9.0,<100
+187,for free,none,critical/other existing credit,1.0,unemp/unskilled non res,none,3.0,new car,16.0,<100
+188,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,100<=X<500
+189,own,none,no credits/all paid,1.0,skilled,bank,2.0,furniture/equipment,18.0,<100
+190,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,3.0,business,24.0,>=1000
+191,for free,none,no credits/all paid,2.0,unskilled resident,none,1.0,business,48.0,100<=X<500
+192,own,none,existing paid,2.0,skilled,none,1.0,business,27.0,<100
+193,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,6.0,<100
+194,rent,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,45.0,100<=X<500
+195,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,education,9.0,<100
+196,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,<100
+197,rent,none,existing paid,1.0,skilled,bank,4.0,furniture/equipment,12.0,100<=X<500
+198,for free,none,existing paid,1.0,skilled,bank,1.0,used car,24.0,no known savings
+199,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,18.0,<100
+200,own,none,critical/other existing credit,1.0,skilled,none,2.0,education,9.0,500<=X<1000
+201,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,12.0,<100
+202,own,none,delayed previously,1.0,skilled,none,2.0,business,27.0,<100
+203,rent,none,existing paid,1.0,skilled,none,1.0,retraining,12.0,<100
+204,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,12.0,<100
+205,for free,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,none,3.0,used car,30.0,<100
+206,own,none,critical/other existing credit,1.0,skilled,none,3.0,furniture/equipment,12.0,<100
+207,own,none,critical/other existing credit,1.0,skilled,none,1.0,domestic appliance,12.0,<100
+208,own,none,existing paid,1.0,unskilled resident,stores,1.0,business,24.0,<100
+209,own,none,existing paid,1.0,skilled,none,1.0,used car,12.0,>=1000
+210,own,none,critical/other existing credit,2.0,skilled,none,2.0,radio/tv,9.0,no known savings
+211,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,36.0,no known savings
+212,own,none,no credits/all paid,1.0,skilled,stores,2.0,business,27.0,<100
+213,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,business,30.0,<100
+214,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,36.0,no known savings
+215,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,retraining,6.0,no known savings
+216,own,none,no credits/all paid,1.0,skilled,bank,1.0,business,18.0,<100
+217,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+218,rent,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,24.0,<100
+219,own,none,existing paid,1.0,skilled,none,1.0,new car,10.0,<100
+220,own,guarantor,existing paid,1.0,unskilled resident,bank,1.0,radio/tv,12.0,<100
+221,rent,none,existing paid,1.0,skilled,bank,1.0,education,12.0,no known savings
+222,own,none,existing paid,1.0,skilled,bank,2.0,radio/tv,12.0,<100
+223,own,none,delayed previously,2.0,skilled,none,2.0,business,24.0,no known savings
+224,own,none,existing paid,1.0,skilled,none,1.0,used car,15.0,<100
+225,own,none,no credits/all paid,1.0,skilled,none,2.0,repairs,36.0,<100
+226,own,co applicant,existing paid,1.0,skilled,bank,2.0,radio/tv,48.0,>=1000
+227,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,12.0,<100
+228,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,<100
+229,for free,none,existing paid,1.0,skilled,bank,1.0,furniture/equipment,24.0,<100
+230,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+231,for free,none,existing paid,1.0,unskilled resident,none,1.0,new car,9.0,500<=X<1000
+232,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,100<=X<500
+233,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,radio/tv,18.0,<100
+234,own,none,critical/other existing credit,2.0,unskilled resident,none,3.0,radio/tv,4.0,<100
+235,own,none,existing paid,2.0,high qualif/self emp/mgmt,stores,1.0,radio/tv,24.0,<100
+236,own,none,existing paid,1.0,unemp/unskilled non res,none,1.0,new car,6.0,no known savings
+237,rent,none,existing paid,1.0,unskilled resident,bank,2.0,business,21.0,100<=X<500
+238,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,12.0,<100
+239,own,guarantor,existing paid,2.0,skilled,none,1.0,radio/tv,30.0,<100
+240,own,none,existing paid,1.0,skilled,bank,1.0,new car,24.0,no known savings
+241,own,none,existing paid,2.0,skilled,none,1.0,radio/tv,6.0,<100
+242,for free,none,no credits/all paid,2.0,skilled,none,2.0,used car,48.0,<100
+243,own,none,critical/other existing credit,1.0,skilled,none,2.0,business,12.0,<100
+244,own,none,all paid,2.0,unskilled resident,none,1.0,retraining,12.0,500<=X<1000
+245,own,none,existing paid,1.0,skilled,none,1.0,business,24.0,<100
+246,own,none,critical/other existing credit,1.0,skilled,none,3.0,radio/tv,12.0,<100
+247,rent,none,no credits/all paid,1.0,skilled,bank,1.0,new car,6.0,100<=X<500
+248,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+249,rent,co applicant,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+250,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,6.0,>=1000
+251,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+252,own,guarantor,existing paid,1.0,skilled,bank,1.0,new car,30.0,<100
+253,own,none,delayed previously,1.0,skilled,none,2.0,furniture/equipment,24.0,100<=X<500
+254,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,no known savings
+255,own,none,delayed previously,1.0,unskilled resident,none,1.0,radio/tv,60.0,no known savings
+256,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,24.0,<100
+257,for free,none,all paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+258,own,none,existing paid,1.0,skilled,none,1.0,used car,15.0,100<=X<500
+259,own,none,critical/other existing credit,1.0,unskilled resident,none,3.0,radio/tv,11.0,100<=X<500
+260,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+261,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+262,for free,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,3.0,new car,18.0,<100
+263,for free,none,critical/other existing credit,1.0,unskilled resident,bank,3.0,education,12.0,<100
+264,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,10.0,<100
+265,own,none,existing paid,2.0,skilled,none,1.0,radio/tv,15.0,<100
+266,own,none,critical/other existing credit,1.0,skilled,none,2.0,business,36.0,no known savings
+267,own,none,existing paid,1.0,skilled,stores,1.0,radio/tv,24.0,<100
+268,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,14.0,<100
+269,own,none,existing paid,1.0,skilled,none,2.0,radio/tv,24.0,no known savings
+270,own,none,existing paid,1.0,skilled,none,1.0,new car,18.0,no known savings
+271,rent,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,12.0,500<=X<1000
+272,for free,co applicant,all paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,48.0,no known savings
+273,own,none,existing paid,1.0,skilled,none,2.0,radio/tv,48.0,<100
+274,own,none,existing paid,1.0,unskilled resident,none,1.0,repairs,30.0,<100
+275,own,none,existing paid,2.0,skilled,none,1.0,radio/tv,9.0,<100
+276,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,<100
+277,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,no known savings
+278,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,6.0,<100
+279,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,24.0,100<=X<500
+280,rent,none,critical/other existing credit,1.0,skilled,none,2.0,used car,15.0,>=1000
+281,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+282,own,none,all paid,1.0,unskilled resident,bank,1.0,radio/tv,18.0,no known savings
+283,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,15.0,no known savings
+284,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,24.0,100<=X<500
+285,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,47.0,<100
+286,own,none,existing paid,2.0,skilled,none,1.0,used car,48.0,<100
+287,for free,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,other,48.0,100<=X<500
+288,own,guarantor,existing paid,1.0,skilled,none,2.0,radio/tv,12.0,<100
+289,own,none,delayed previously,1.0,skilled,stores,1.0,radio/tv,24.0,<100
+290,own,none,existing paid,1.0,skilled,none,1.0,business,12.0,<100
+291,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,36.0,<100
+292,for free,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,none,2.0,used car,24.0,<100
+293,for free,none,critical/other existing credit,1.0,skilled,none,1.0,used car,42.0,<100
+294,own,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,bank,2.0,business,48.0,no known savings
+295,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,48.0,<100
+296,rent,none,existing paid,1.0,skilled,none,1.0,used car,12.0,no known savings
+297,own,co applicant,existing paid,1.0,unskilled resident,none,1.0,new car,10.0,no known savings
+298,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+299,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,21.0,>=1000
+300,own,none,existing paid,1.0,unemp/unskilled non res,none,1.0,new car,6.0,<100
+301,own,none,no credits/all paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+302,own,none,critical/other existing credit,2.0,unskilled resident,bank,2.0,new car,24.0,no known savings
+303,own,co applicant,critical/other existing credit,1.0,skilled,none,2.0,new car,10.0,<100
+304,for free,none,critical/other existing credit,1.0,skilled,bank,1.0,new car,48.0,500<=X<1000
+305,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,6.0,>=1000
+306,rent,none,existing paid,1.0,unskilled resident,stores,1.0,used car,30.0,no known savings
+307,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,12.0,100<=X<500
+308,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,8.0,<100
+309,rent,none,existing paid,1.0,unskilled resident,none,1.0,new car,9.0,<100
+310,for free,none,existing paid,1.0,unemp/unskilled non res,bank,1.0,other,48.0,no known savings
+311,own,none,existing paid,1.0,skilled,stores,1.0,furniture/equipment,24.0,100<=X<500
+312,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+313,own,none,existing paid,1.0,unskilled resident,bank,1.0,new car,12.0,<100
+314,own,none,existing paid,2.0,unskilled resident,none,1.0,new car,4.0,no known savings
+315,own,none,all paid,1.0,skilled,bank,1.0,furniture/equipment,36.0,<100
+316,own,guarantor,existing paid,2.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+317,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,24.0,no known savings
+318,own,none,critical/other existing credit,1.0,skilled,none,2.0,education,12.0,<100
+319,own,none,delayed previously,1.0,unskilled resident,none,2.0,furniture/equipment,15.0,<100
+320,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,new car,30.0,<100
+321,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+322,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,<100
+323,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,>=1000
+324,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,18.0,<100
+325,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,8.0,<100
+326,rent,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,12.0,no known savings
+327,own,none,existing paid,2.0,skilled,none,1.0,new car,24.0,>=1000
+328,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+329,own,none,existing paid,2.0,skilled,none,1.0,radio/tv,6.0,<100
+330,for free,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,used car,24.0,<100
+331,own,none,critical/other existing credit,1.0,skilled,none,2.0,education,18.0,100<=X<500
+332,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,60.0,100<=X<500
+333,rent,none,critical/other existing credit,1.0,unskilled resident,bank,2.0,used car,48.0,100<=X<500
+334,rent,none,no credits/all paid,2.0,skilled,bank,2.0,furniture/equipment,24.0,<100
+335,rent,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,6.0,<100
+336,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,radio/tv,13.0,<100
+337,rent,none,existing paid,1.0,skilled,none,1.0,domestic appliance,15.0,no known savings
+338,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+339,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,10.0,<100
+340,for free,none,critical/other existing credit,1.0,skilled,none,2.0,education,24.0,<100
+341,rent,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,21.0,<100
+342,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,500<=X<1000
+343,own,co applicant,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,business,18.0,<100
+344,own,guarantor,existing paid,2.0,unskilled resident,none,1.0,new car,10.0,<100
+345,own,none,critical/other existing credit,1.0,unskilled resident,none,1.0,radio/tv,15.0,<100
+346,own,guarantor,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,13.0,<100
+347,rent,none,existing paid,1.0,unemp/unskilled non res,none,1.0,radio/tv,24.0,500<=X<1000
+348,own,none,delayed previously,1.0,unskilled resident,none,2.0,business,6.0,100<=X<500
+349,for free,none,critical/other existing credit,2.0,skilled,none,2.0,education,9.0,>=1000
+350,rent,none,existing paid,1.0,skilled,none,1.0,domestic appliance,9.0,<100
+351,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,<100
+352,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,used car,18.0,no known savings
+353,rent,none,no credits/all paid,1.0,skilled,none,2.0,radio/tv,12.0,<100
+354,for free,none,existing paid,1.0,skilled,none,1.0,education,10.0,500<=X<1000
+355,own,none,existing paid,1.0,unskilled resident,stores,1.0,new car,24.0,<100
+356,own,co applicant,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,12.0,no known savings
+357,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,2.0,radio/tv,36.0,<100
+358,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+359,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,30.0,<100
+360,for free,none,existing paid,1.0,skilled,none,1.0,education,18.0,no known savings
+361,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,12.0,no known savings
+362,own,none,delayed previously,1.0,skilled,stores,2.0,new car,12.0,<100
+363,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,6.0,<100
+364,own,none,existing paid,1.0,unemp/unskilled non res,none,1.0,furniture/equipment,18.0,<100
+365,own,none,existing paid,1.0,skilled,none,1.0,business,12.0,<100
+366,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,18.0,<100
+367,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+368,own,none,existing paid,2.0,skilled,none,1.0,furniture/equipment,36.0,<100
+369,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+370,own,none,existing paid,1.0,skilled,none,1.0,new car,36.0,no known savings
+371,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,<100
+372,rent,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,10.0,<100
+373,for free,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,bank,1.0,new car,60.0,no known savings
+374,for free,none,all paid,1.0,high qualif/self emp/mgmt,bank,2.0,other,60.0,100<=X<500
+375,rent,guarantor,all paid,1.0,skilled,none,1.0,business,48.0,<100
+376,own,none,delayed previously,1.0,skilled,none,2.0,radio/tv,18.0,<100
+377,for free,none,delayed previously,1.0,skilled,none,1.0,radio/tv,7.0,no known savings
+378,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,36.0,<100
+379,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,6.0,100<=X<500
+380,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,20.0,no known savings
+381,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,18.0,<100
+382,rent,none,existing paid,1.0,skilled,none,1.0,new car,22.0,no known savings
+383,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,<100
+384,own,none,delayed previously,1.0,unskilled resident,none,2.0,business,30.0,100<=X<500
+385,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,<100
+386,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,no known savings
+387,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,stores,2.0,furniture/equipment,18.0,<100
+388,own,none,critical/other existing credit,1.0,skilled,bank,1.0,business,15.0,500<=X<1000
+389,own,none,existing paid,1.0,skilled,none,2.0,business,9.0,<100
+390,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,18.0,<100
+391,rent,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,>=1000
+392,for free,none,existing paid,2.0,high qualif/self emp/mgmt,bank,1.0,new car,36.0,<100
+393,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,6.0,<100
+394,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,9.0,<100
+395,rent,none,delayed previously,1.0,skilled,none,1.0,education,39.0,100<=X<500
+396,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,12.0,<100
+397,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,36.0,<100
+398,rent,none,existing paid,1.0,skilled,none,2.0,new car,12.0,<100
+399,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,24.0,>=1000
+400,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+401,own,none,critical/other existing credit,1.0,skilled,bank,2.0,business,18.0,no known savings
+402,own,none,delayed previously,1.0,skilled,bank,2.0,business,24.0,<100
+403,own,none,delayed previously,1.0,unskilled resident,none,2.0,new car,14.0,<100
+404,own,none,delayed previously,2.0,skilled,none,1.0,new car,18.0,no known savings
+405,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+406,own,none,critical/other existing credit,2.0,skilled,none,2.0,used car,24.0,no known savings
+407,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,15.0,<100
+408,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,24.0,500<=X<1000
+409,own,none,critical/other existing credit,1.0,skilled,none,3.0,new car,12.0,500<=X<1000
+410,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+411,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,used car,33.0,<100
+412,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,stores,2.0,business,12.0,<100
+413,rent,none,existing paid,2.0,unskilled resident,none,1.0,new car,10.0,500<=X<1000
+414,own,none,existing paid,1.0,skilled,none,1.0,new car,24.0,no known savings
+415,own,none,critical/other existing credit,2.0,skilled,none,2.0,used car,36.0,<100
+416,own,none,existing paid,2.0,unskilled resident,none,1.0,new car,12.0,<100
+417,rent,none,delayed previously,1.0,skilled,none,2.0,education,18.0,no known savings
+418,own,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,new car,21.0,500<=X<1000
+419,own,none,existing paid,1.0,skilled,none,1.0,new car,18.0,no known savings
+420,rent,none,existing paid,1.0,skilled,none,1.0,new car,15.0,>=1000
+421,own,none,existing paid,1.0,skilled,none,1.0,used car,12.0,no known savings
+422,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,12.0,<100
+423,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,2.0,furniture/equipment,21.0,100<=X<500
+424,own,none,existing paid,1.0,skilled,bank,1.0,furniture/equipment,12.0,no known savings
+425,rent,none,existing paid,1.0,skilled,none,1.0,used car,18.0,<100
+426,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,28.0,<100
+427,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,>=1000
+428,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,<100
+429,for free,none,critical/other existing credit,2.0,unemp/unskilled non res,none,3.0,repairs,18.0,<100
+430,own,none,existing paid,1.0,unskilled resident,none,1.0,business,5.0,<100
+431,own,co applicant,existing paid,1.0,high qualif/self emp/mgmt,bank,2.0,other,24.0,<100
+432,for free,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,3.0,furniture/equipment,6.0,<100
+433,own,none,critical/other existing credit,1.0,skilled,none,2.0,repairs,24.0,<100
+434,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,<100
+435,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,no known savings
+436,rent,none,existing paid,1.0,unskilled resident,none,1.0,repairs,6.0,500<=X<1000
+437,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,24.0,>=1000
+438,own,co applicant,critical/other existing credit,1.0,unemp/unskilled non res,none,2.0,repairs,42.0,<100
+439,own,none,all paid,1.0,unemp/unskilled non res,none,1.0,business,12.0,<100
+440,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,12.0,<100
+441,own,co applicant,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+442,own,none,delayed previously,1.0,skilled,bank,2.0,other,20.0,<100
+443,own,none,existing paid,2.0,unskilled resident,bank,1.0,education,12.0,<100
+444,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,48.0,<100
+445,rent,none,critical/other existing credit,1.0,unskilled resident,none,2.0,education,9.0,no known savings
+446,own,none,existing paid,1.0,skilled,none,1.0,new car,36.0,<100
+447,own,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,7.0,<100
+448,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,12.0,no known savings
+449,own,none,delayed previously,1.0,skilled,stores,2.0,repairs,15.0,>=1000
+450,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,used car,36.0,no known savings
+451,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,6.0,<100
+452,own,none,no credits/all paid,1.0,skilled,none,2.0,furniture/equipment,12.0,<100
+453,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,<100
+454,own,co applicant,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+455,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,<100
+456,rent,none,critical/other existing credit,2.0,skilled,none,2.0,new car,11.0,<100
+457,for free,none,existing paid,1.0,skilled,none,1.0,used car,12.0,<100
+458,own,none,existing paid,1.0,skilled,none,1.0,domestic appliance,6.0,<100
+459,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+460,own,guarantor,existing paid,2.0,skilled,none,1.0,furniture/equipment,36.0,<100
+461,own,none,existing paid,1.0,skilled,none,1.0,new car,15.0,<100
+462,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,12.0,<100
+463,own,none,existing paid,1.0,skilled,none,2.0,retraining,12.0,no known savings
+464,own,none,existing paid,1.0,skilled,stores,2.0,business,18.0,<100
+465,own,guarantor,existing paid,2.0,skilled,bank,1.0,used car,24.0,<100
+466,rent,none,delayed previously,1.0,unskilled resident,none,1.0,radio/tv,24.0,<100
+467,own,none,delayed previously,2.0,skilled,bank,2.0,radio/tv,48.0,no known savings
+468,own,none,delayed previously,1.0,skilled,none,2.0,business,33.0,<100
+469,own,none,delayed previously,1.0,unskilled resident,none,2.0,used car,24.0,<100
+470,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,100<=X<500
+471,own,none,existing paid,1.0,skilled,none,1.0,education,6.0,<100
+472,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,9.0,<100
+473,own,none,existing paid,2.0,high qualif/self emp/mgmt,none,1.0,retraining,6.0,no known savings
+474,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,18.0,<100
+475,rent,none,no credits/all paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+476,own,none,existing paid,1.0,skilled,none,1.0,used car,39.0,500<=X<1000
+477,own,none,existing paid,1.0,skilled,bank,1.0,radio/tv,24.0,<100
+478,own,none,existing paid,1.0,unskilled resident,none,1.0,business,12.0,100<=X<500
+479,own,none,critical/other existing credit,2.0,skilled,none,2.0,furniture/equipment,15.0,<100
+480,own,none,critical/other existing credit,1.0,unskilled resident,none,1.0,radio/tv,12.0,<100
+481,own,none,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+482,rent,none,existing paid,1.0,skilled,none,2.0,furniture/equipment,30.0,>=1000
+483,own,none,delayed previously,1.0,skilled,none,2.0,furniture/equipment,15.0,>=1000
+484,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,12.0,500<=X<1000
+485,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,new car,6.0,<100
+486,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+487,for free,co applicant,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+488,rent,none,existing paid,1.0,unskilled resident,none,1.0,new car,10.0,100<=X<500
+489,rent,guarantor,existing paid,1.0,skilled,none,1.0,new car,6.0,<100
+490,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,12.0,<100
+491,for free,none,no credits/all paid,1.0,high qualif/self emp/mgmt,none,2.0,business,27.0,<100
+492,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,100<=X<500
+493,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,6.0,no known savings
+494,rent,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,12.0,<100
+495,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,no known savings
+496,rent,co applicant,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,36.0,100<=X<500
+497,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,24.0,<100
+498,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,radio/tv,18.0,<100
+499,own,none,critical/other existing credit,2.0,skilled,none,2.0,new car,6.0,100<=X<500
+500,own,none,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+501,for free,none,existing paid,2.0,skilled,none,1.0,used car,36.0,<100
+502,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,100<=X<500
+503,own,none,critical/other existing credit,2.0,skilled,bank,2.0,radio/tv,24.0,100<=X<500
+504,rent,none,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+505,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,new car,10.0,no known savings
+506,own,none,critical/other existing credit,1.0,skilled,none,1.0,used car,15.0,500<=X<1000
+507,own,none,all paid,2.0,high qualif/self emp/mgmt,none,1.0,new car,15.0,100<=X<500
+508,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+509,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,39.0,100<=X<500
+510,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,<100
+511,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,36.0,<100
+512,rent,none,existing paid,1.0,skilled,none,1.0,business,15.0,<100
+513,rent,co applicant,delayed previously,1.0,skilled,none,2.0,radio/tv,12.0,<100
+514,own,none,existing paid,1.0,skilled,none,1.0,new car,24.0,no known savings
+515,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,6.0,<100
+516,own,none,critical/other existing credit,2.0,unskilled resident,none,1.0,new car,6.0,<100
+517,rent,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,36.0,<100
+518,own,none,existing paid,1.0,skilled,none,1.0,new car,6.0,100<=X<500
+519,for free,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,no known savings
+520,for free,none,critical/other existing credit,1.0,skilled,none,2.0,repairs,24.0,<100
+521,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+522,for free,none,no credits/all paid,2.0,skilled,none,2.0,furniture/equipment,48.0,<100
+523,own,none,existing paid,1.0,skilled,none,1.0,used car,24.0,100<=X<500
+524,own,guarantor,existing paid,2.0,unskilled resident,none,1.0,radio/tv,18.0,<100
+525,own,none,existing paid,1.0,skilled,none,2.0,used car,26.0,<100
+526,own,none,critical/other existing credit,1.0,skilled,none,1.0,education,15.0,100<=X<500
+527,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,radio/tv,4.0,<100
+528,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+529,own,none,existing paid,2.0,unskilled resident,none,1.0,new car,6.0,<100
+530,own,none,existing paid,2.0,skilled,none,2.0,education,36.0,<100
+531,rent,none,existing paid,1.0,skilled,none,2.0,new car,15.0,100<=X<500
+532,rent,none,delayed previously,1.0,skilled,none,1.0,used car,12.0,<100
+533,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,100<=X<500
+534,own,none,existing paid,1.0,skilled,none,2.0,radio/tv,24.0,no known savings
+535,rent,none,critical/other existing credit,1.0,skilled,none,1.0,education,21.0,<100
+536,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,6.0,no known savings
+537,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+538,for free,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,new car,48.0,<100
+539,own,none,existing paid,1.0,unskilled resident,stores,1.0,furniture/equipment,18.0,<100
+540,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+541,for free,none,delayed previously,1.0,skilled,none,2.0,new car,24.0,<100
+542,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,30.0,no known savings
+543,own,none,existing paid,2.0,unskilled resident,none,1.0,furniture/equipment,18.0,<100
+544,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,12.0,<100
+545,for free,none,delayed previously,2.0,skilled,none,2.0,new car,24.0,<100
+546,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,24.0,<100
+547,own,none,existing paid,2.0,skilled,bank,1.0,radio/tv,24.0,<100
+548,own,none,all paid,1.0,unskilled resident,bank,1.0,radio/tv,12.0,<100
+549,for free,none,critical/other existing credit,1.0,skilled,none,2.0,used car,48.0,no known savings
+550,own,none,critical/other existing credit,1.0,skilled,none,2.0,repairs,12.0,no known savings
+551,own,none,all paid,2.0,unskilled resident,bank,1.0,radio/tv,6.0,500<=X<1000
+552,own,guarantor,existing paid,1.0,skilled,none,2.0,radio/tv,48.0,<100
+553,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,12.0,100<=X<500
+554,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,2.0,education,9.0,<100
+555,own,none,existing paid,1.0,skilled,stores,1.0,radio/tv,12.0,<100
+556,own,none,no credits/all paid,1.0,skilled,none,2.0,new car,18.0,100<=X<500
+557,own,none,no credits/all paid,1.0,skilled,bank,2.0,new car,21.0,no known savings
+558,own,none,all paid,1.0,skilled,bank,1.0,furniture/equipment,24.0,<100
+559,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,furniture/equipment,18.0,<100
+560,for free,none,existing paid,2.0,skilled,bank,1.0,used car,24.0,no known savings
+561,rent,guarantor,all paid,1.0,unskilled resident,bank,1.0,radio/tv,24.0,<100
+562,own,none,delayed previously,1.0,skilled,bank,1.0,radio/tv,6.0,<100
+563,for free,none,existing paid,1.0,skilled,none,1.0,new car,36.0,no known savings
+564,own,none,delayed previously,1.0,high qualif/self emp/mgmt,bank,2.0,business,24.0,no known savings
+565,rent,none,delayed previously,1.0,skilled,none,2.0,radio/tv,24.0,100<=X<500
+566,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,<100
+567,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,24.0,>=1000
+568,own,none,existing paid,2.0,skilled,none,2.0,radio/tv,48.0,no known savings
+569,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,48.0,<100
+570,rent,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,24.0,<100
+571,own,co applicant,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,30.0,<100
+572,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,no known savings
+573,own,none,existing paid,1.0,unskilled resident,none,1.0,business,15.0,<100
+574,own,none,existing paid,1.0,unskilled resident,none,2.0,radio/tv,9.0,<100
+575,own,co applicant,critical/other existing credit,1.0,skilled,bank,2.0,furniture/equipment,15.0,<100
+576,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+577,own,none,critical/other existing credit,1.0,skilled,none,2.0,education,24.0,no known savings
+578,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,36.0,<100
+579,own,none,existing paid,1.0,unskilled resident,none,2.0,retraining,24.0,<100
+580,own,guarantor,critical/other existing credit,1.0,skilled,bank,2.0,new car,18.0,<100
+581,own,none,critical/other existing credit,2.0,unskilled resident,bank,2.0,new car,12.0,<100
+582,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,<100
+583,rent,none,existing paid,1.0,unskilled resident,none,1.0,repairs,36.0,<100
+584,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,12.0,no known savings
+585,rent,none,existing paid,1.0,skilled,bank,1.0,furniture/equipment,18.0,<100
+586,rent,none,critical/other existing credit,2.0,skilled,none,2.0,new car,9.0,<100
+587,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+588,own,none,existing paid,1.0,unskilled resident,none,1.0,domestic appliance,18.0,<100
+589,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,12.0,<100
+590,own,none,critical/other existing credit,1.0,unskilled resident,none,4.0,radio/tv,12.0,<100
+591,rent,none,delayed previously,1.0,skilled,none,2.0,new car,24.0,no known savings
+592,own,none,existing paid,1.0,unskilled resident,bank,1.0,business,21.0,>=1000
+593,rent,none,existing paid,1.0,unskilled resident,none,1.0,new car,24.0,<100
+594,own,none,all paid,1.0,high qualif/self emp/mgmt,stores,1.0,other,24.0,no known savings
+595,own,none,all paid,1.0,unskilled resident,stores,1.0,new car,6.0,100<=X<500
+596,rent,none,existing paid,1.0,skilled,none,2.0,new car,24.0,<100
+597,own,none,no credits/all paid,1.0,unskilled resident,none,3.0,business,24.0,<100
+598,own,none,critical/other existing credit,1.0,skilled,bank,2.0,new car,18.0,<100
+599,for free,none,delayed previously,1.0,skilled,none,1.0,business,24.0,<100
+600,own,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,7.0,<100
+601,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,<100
+602,for free,none,all paid,1.0,unskilled resident,bank,1.0,education,24.0,<100
+603,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,36.0,<100
+604,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,10.0,<100
+605,own,none,all paid,1.0,skilled,stores,1.0,furniture/equipment,24.0,500<=X<1000
+606,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,business,24.0,<100
+607,for free,co applicant,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,100<=X<500
+608,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+609,for free,none,existing paid,2.0,skilled,bank,1.0,used car,15.0,no known savings
+610,own,none,existing paid,1.0,skilled,none,1.0,domestic appliance,12.0,100<=X<500
+611,for free,none,existing paid,2.0,unskilled resident,none,1.0,new car,10.0,100<=X<500
+612,own,none,existing paid,1.0,skilled,bank,1.0,radio/tv,21.0,>=1000
+613,rent,guarantor,all paid,1.0,skilled,bank,1.0,used car,24.0,<100
+614,own,none,delayed previously,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+615,own,none,no credits/all paid,1.0,high qualif/self emp/mgmt,bank,1.0,business,48.0,no known savings
+616,for free,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,60.0,no known savings
+617,rent,none,critical/other existing credit,2.0,skilled,none,3.0,new car,6.0,<100
+618,rent,co applicant,existing paid,1.0,skilled,none,1.0,furniture/equipment,30.0,100<=X<500
+619,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,12.0,<100
+620,own,none,critical/other existing credit,1.0,skilled,none,2.0,business,21.0,<100
+621,own,none,critical/other existing credit,1.0,skilled,bank,2.0,new car,18.0,<100
+622,own,none,existing paid,1.0,skilled,bank,1.0,business,48.0,no known savings
+623,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+624,for free,none,existing paid,1.0,skilled,none,2.0,radio/tv,18.0,<100
+625,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,15.0,no known savings
+626,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,6.0,<100
+627,own,none,all paid,1.0,skilled,none,1.0,new car,9.0,100<=X<500
+628,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,42.0,500<=X<1000
+629,own,none,existing paid,1.0,unskilled resident,none,1.0,education,9.0,no known savings
+630,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+631,own,none,all paid,1.0,skilled,bank,1.0,furniture/equipment,18.0,<100
+632,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,15.0,no known savings
+633,rent,co applicant,existing paid,1.0,skilled,none,2.0,furniture/equipment,9.0,<100
+634,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,24.0,<100
+635,own,none,existing paid,2.0,skilled,bank,3.0,education,12.0,<100
+636,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,500<=X<1000
+637,own,none,delayed previously,1.0,skilled,none,2.0,radio/tv,60.0,<100
+638,own,none,existing paid,2.0,skilled,none,1.0,radio/tv,12.0,<100
+639,own,none,delayed previously,2.0,skilled,bank,2.0,radio/tv,42.0,<100
+640,own,none,existing paid,1.0,unemp/unskilled non res,none,1.0,education,18.0,<100
+641,own,none,existing paid,1.0,unskilled resident,none,2.0,repairs,15.0,<100
+642,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,education,15.0,100<=X<500
+643,own,guarantor,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,24.0,<100
+644,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,radio/tv,18.0,<100
+645,rent,none,delayed previously,1.0,skilled,none,2.0,business,36.0,no known savings
+646,own,guarantor,no credits/all paid,1.0,skilled,none,2.0,furniture/equipment,30.0,<100
+647,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,500<=X<1000
+648,for free,none,existing paid,2.0,skilled,bank,1.0,new car,24.0,<100
+649,rent,none,existing paid,2.0,unskilled resident,none,1.0,education,12.0,<100
+650,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,education,48.0,<100
+651,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+652,own,co applicant,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+653,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,4.0,new car,36.0,100<=X<500
+654,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,24.0,<100
+655,for free,none,existing paid,1.0,skilled,none,1.0,new car,14.0,<100
+656,own,none,existing paid,2.0,unskilled resident,bank,1.0,new car,12.0,<100
+657,own,none,existing paid,1.0,skilled,stores,1.0,radio/tv,48.0,no known savings
+658,own,none,no credits/all paid,1.0,skilled,none,2.0,business,30.0,<100
+659,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+660,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+661,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,no known savings
+662,own,none,existing paid,1.0,skilled,none,2.0,furniture/equipment,21.0,<100
+663,own,none,delayed previously,1.0,high qualif/self emp/mgmt,stores,2.0,furniture/equipment,6.0,<100
+664,own,none,critical/other existing credit,1.0,unskilled resident,none,1.0,education,6.0,<100
+665,own,co applicant,critical/other existing credit,1.0,high qualif/self emp/mgmt,bank,2.0,other,24.0,<100
+666,own,none,all paid,2.0,skilled,stores,1.0,furniture/equipment,30.0,>=1000
+667,own,none,all paid,1.0,skilled,stores,1.0,business,48.0,<100
+668,rent,co applicant,critical/other existing credit,1.0,skilled,none,2.0,new car,12.0,<100
+669,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,30.0,<100
+670,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,business,24.0,100<=X<500
+671,own,none,existing paid,1.0,skilled,none,2.0,business,36.0,100<=X<500
+672,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,60.0,<100
+673,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,6.0,500<=X<1000
+674,own,none,delayed previously,2.0,unskilled resident,bank,1.0,business,21.0,500<=X<1000
+675,rent,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,30.0,<100
+676,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+677,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,72.0,100<=X<500
+678,rent,none,existing paid,1.0,unskilled resident,bank,1.0,radio/tv,24.0,<100
+679,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+680,own,none,existing paid,1.0,skilled,none,1.0,education,6.0,<100
+681,for free,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,no known savings
+682,own,none,delayed previously,1.0,skilled,bank,2.0,radio/tv,15.0,<100
+683,for free,none,critical/other existing credit,1.0,skilled,none,3.0,radio/tv,24.0,<100
+684,own,none,delayed previously,2.0,unskilled resident,none,2.0,business,36.0,100<=X<500
+685,for free,none,existing paid,2.0,skilled,none,1.0,new car,60.0,no known savings
+686,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,10.0,no known savings
+687,for free,none,delayed previously,1.0,skilled,none,1.0,new car,36.0,100<=X<500
+688,own,co applicant,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,100<=X<500
+689,own,none,existing paid,2.0,skilled,none,1.0,new car,12.0,>=1000
+690,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,15.0,<100
+691,own,none,existing paid,1.0,unskilled resident,none,1.0,repairs,15.0,100<=X<500
+692,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,100<=X<500
+693,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,6.0,no known savings
+694,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+695,rent,none,existing paid,1.0,skilled,none,1.0,used car,6.0,500<=X<1000
+696,own,guarantor,existing paid,1.0,skilled,none,2.0,radio/tv,12.0,<100
+697,own,none,critical/other existing credit,1.0,unemp/unskilled non res,none,1.0,new car,12.0,<100
+698,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,<100
+699,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,education,15.0,<100
+700,rent,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,500<=X<1000
+701,for free,none,critical/other existing credit,1.0,skilled,none,2.0,used car,48.0,<100
+702,for free,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,100<=X<500
+703,own,none,delayed previously,1.0,skilled,stores,2.0,business,30.0,100<=X<500
+704,own,none,existing paid,2.0,skilled,none,1.0,business,27.0,<100
+705,for free,none,existing paid,1.0,skilled,none,1.0,new car,15.0,500<=X<1000
+706,own,none,existing paid,1.0,skilled,none,1.0,new car,48.0,100<=X<500
+707,rent,none,no credits/all paid,1.0,skilled,none,2.0,furniture/equipment,12.0,<100
+708,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,<100
+709,own,none,existing paid,2.0,unskilled resident,none,1.0,radio/tv,9.0,<100
+710,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,bank,2.0,radio/tv,18.0,500<=X<1000
+711,for free,none,all paid,1.0,skilled,none,1.0,education,6.0,<100
+712,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,21.0,no known savings
+713,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,9.0,<100
+714,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,60.0,<100
+715,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,30.0,no known savings
+716,own,none,critical/other existing credit,2.0,skilled,none,2.0,radio/tv,30.0,no known savings
+717,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,18.0,<100
+718,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,24.0,no known savings
+719,own,none,no credits/all paid,1.0,skilled,bank,2.0,used car,20.0,100<=X<500
+720,own,none,no credits/all paid,1.0,high qualif/self emp/mgmt,none,2.0,radio/tv,9.0,<100
+721,rent,none,all paid,2.0,skilled,bank,1.0,education,6.0,>=1000
+722,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,12.0,<100
+723,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,9.0,500<=X<1000
+724,rent,none,existing paid,1.0,skilled,none,1.0,new car,27.0,<100
+725,own,none,critical/other existing credit,1.0,unskilled resident,bank,2.0,new car,6.0,>=1000
+726,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,15.0,500<=X<1000
+727,rent,none,existing paid,1.0,skilled,bank,2.0,radio/tv,18.0,<100
+728,rent,none,all paid,1.0,skilled,none,1.0,business,48.0,<100
+729,own,none,critical/other existing credit,1.0,skilled,none,2.0,business,24.0,>=1000
+730,own,none,delayed previously,1.0,skilled,none,1.0,radio/tv,24.0,<100
+731,rent,none,existing paid,2.0,unskilled resident,none,1.0,radio/tv,24.0,<100
+732,own,guarantor,existing paid,1.0,unskilled resident,none,1.0,radio/tv,8.0,<100
+733,rent,none,existing paid,1.0,skilled,none,1.0,used car,24.0,>=1000
+734,own,none,critical/other existing credit,2.0,skilled,none,1.0,new car,4.0,<100
+735,own,none,all paid,1.0,unemp/unskilled non res,bank,1.0,domestic appliance,36.0,no known savings
+736,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,2.0,used car,24.0,<100
+737,own,none,existing paid,2.0,unskilled resident,none,1.0,new car,18.0,100<=X<500
+738,own,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,none,2.0,new car,6.0,<100
+739,rent,none,no credits/all paid,1.0,unskilled resident,none,2.0,business,30.0,100<=X<500
+740,own,none,all paid,1.0,skilled,bank,1.0,new car,24.0,100<=X<500
+741,own,none,all paid,1.0,unskilled resident,stores,1.0,radio/tv,10.0,<100
+742,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,21.0,no known savings
+743,own,none,all paid,1.0,skilled,stores,1.0,furniture/equipment,24.0,500<=X<1000
+744,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,furniture/equipment,39.0,no known savings
+745,own,none,critical/other existing credit,1.0,unskilled resident,bank,2.0,business,13.0,<100
+746,rent,none,existing paid,1.0,skilled,none,1.0,new car,15.0,<100
+747,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,12.0,<100
+748,own,none,existing paid,1.0,skilled,none,1.0,used car,21.0,no known savings
+749,own,none,existing paid,1.0,skilled,none,1.0,used car,15.0,<100
+750,own,none,existing paid,1.0,skilled,bank,1.0,furniture/equipment,6.0,<100
+751,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,18.0,<100
+752,rent,none,existing paid,1.0,unskilled resident,none,1.0,business,12.0,100<=X<500
+753,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,30.0,<100
+754,for free,none,delayed previously,2.0,skilled,none,2.0,repairs,12.0,>=1000
+755,rent,none,existing paid,1.0,skilled,none,1.0,new car,24.0,no known savings
+756,own,none,critical/other existing credit,2.0,unemp/unskilled non res,none,3.0,new car,6.0,<100
+757,for free,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,15.0,no known savings
+758,own,guarantor,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+759,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,12.0,<100
+760,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,15.0,no known savings
+761,rent,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,18.0,<100
+762,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,12.0,<100
+763,for free,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,new car,21.0,no known savings
+764,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,24.0,100<=X<500
+765,own,guarantor,existing paid,1.0,unskilled resident,bank,2.0,radio/tv,12.0,<100
+766,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,30.0,<100
+767,rent,none,existing paid,1.0,skilled,none,1.0,used car,10.0,no known savings
+768,rent,none,critical/other existing credit,1.0,skilled,none,3.0,furniture/equipment,12.0,<100
+769,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,12.0,<100
+770,rent,none,existing paid,1.0,skilled,none,1.0,used car,24.0,no known savings
+771,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,education,36.0,<100
+772,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,1.0,used car,21.0,<100
+773,own,none,critical/other existing credit,1.0,skilled,bank,2.0,radio/tv,24.0,100<=X<500
+774,for free,none,critical/other existing credit,1.0,unemp/unskilled non res,bank,3.0,new car,12.0,500<=X<1000
+775,rent,none,existing paid,1.0,skilled,none,1.0,new car,24.0,no known savings
+776,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,36.0,<100
+777,own,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,18.0,<100
+778,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,used car,36.0,>=1000
+779,own,none,existing paid,1.0,skilled,none,1.0,repairs,18.0,<100
+780,own,guarantor,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,39.0,<100
+781,own,none,critical/other existing credit,1.0,skilled,none,1.0,new car,24.0,>=1000
+782,own,none,no credits/all paid,1.0,unskilled resident,none,1.0,retraining,12.0,<100
+783,own,none,existing paid,1.0,unskilled resident,bank,1.0,new car,12.0,100<=X<500
+784,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,20.0,no known savings
+785,own,none,existing paid,1.0,unskilled resident,none,1.0,business,18.0,>=1000
+786,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,22.0,500<=X<1000
+787,own,none,critical/other existing credit,2.0,skilled,none,2.0,used car,48.0,no known savings
+788,for free,none,delayed previously,1.0,skilled,none,1.0,education,48.0,<100
+789,own,none,critical/other existing credit,1.0,skilled,bank,1.0,education,40.0,<100
+790,own,none,existing paid,2.0,skilled,none,1.0,business,21.0,<100
+791,own,none,existing paid,2.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,no known savings
+792,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,6.0,no known savings
+793,for free,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+794,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,500<=X<1000
+795,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,9.0,100<=X<500
+796,for free,none,existing paid,2.0,skilled,none,1.0,used car,18.0,no known savings
+797,rent,none,critical/other existing credit,1.0,unskilled resident,none,2.0,furniture/equipment,12.0,<100
+798,own,none,delayed previously,1.0,skilled,none,2.0,new car,24.0,no known savings
+799,own,none,existing paid,1.0,unemp/unskilled non res,none,1.0,new car,9.0,no known savings
+800,for free,none,critical/other existing credit,2.0,skilled,none,2.0,education,24.0,<100
+801,rent,guarantor,critical/other existing credit,1.0,unskilled resident,bank,2.0,radio/tv,18.0,<100
+802,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,20.0,<100
+803,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,12.0,no known savings
+804,rent,none,existing paid,1.0,unemp/unskilled non res,none,1.0,new car,12.0,no known savings
+805,own,none,existing paid,1.0,skilled,none,1.0,new car,36.0,<100
+806,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,6.0,<100
+807,own,none,critical/other existing credit,1.0,skilled,none,4.0,radio/tv,12.0,no known savings
+808,for free,none,all paid,1.0,high qualif/self emp/mgmt,bank,1.0,used car,42.0,<100
+809,rent,none,no credits/all paid,1.0,unemp/unskilled non res,none,2.0,new car,15.0,<100
+810,own,none,existing paid,1.0,skilled,none,1.0,business,8.0,<100
+811,own,guarantor,existing paid,1.0,unskilled resident,bank,1.0,radio/tv,6.0,<100
+812,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,36.0,<100
+813,own,none,existing paid,1.0,skilled,none,1.0,domestic appliance,48.0,<100
+814,for free,none,existing paid,2.0,skilled,none,1.0,new car,48.0,<100
+815,rent,none,delayed previously,1.0,skilled,none,1.0,new car,36.0,<100
+816,own,none,existing paid,1.0,skilled,none,1.0,domestic appliance,6.0,500<=X<1000
+817,rent,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,<100
+818,own,co applicant,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,other,36.0,<100
+819,own,none,existing paid,1.0,skilled,bank,1.0,radio/tv,18.0,<100
+820,own,none,existing paid,1.0,skilled,none,2.0,new car,12.0,<100
+821,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+822,own,none,existing paid,2.0,skilled,bank,1.0,furniture/equipment,36.0,<100
+823,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,new car,8.0,<100
+824,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,furniture/equipment,18.0,<100
+825,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,21.0,<100
+826,rent,none,critical/other existing credit,1.0,skilled,bank,3.0,new car,18.0,<100
+827,own,none,no credits/all paid,2.0,skilled,stores,2.0,business,18.0,<100
+828,for free,none,existing paid,1.0,skilled,none,1.0,used car,36.0,no known savings
+829,for free,none,delayed previously,2.0,skilled,none,1.0,business,48.0,no known savings
+830,own,none,delayed previously,2.0,skilled,none,2.0,business,24.0,500<=X<1000
+831,rent,none,existing paid,1.0,skilled,none,1.0,new car,18.0,<100
+832,rent,none,no credits/all paid,1.0,skilled,none,2.0,business,45.0,<100
+833,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,no known savings
+834,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,15.0,<100
+835,own,none,no credits/all paid,1.0,skilled,bank,2.0,new car,12.0,<100
+836,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,no known savings
+837,rent,none,existing paid,2.0,unskilled resident,none,1.0,furniture/equipment,4.0,<100
+838,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,24.0,<100
+839,own,co applicant,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,24.0,<100
+840,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,36.0,<100
+841,own,none,delayed previously,1.0,unskilled resident,stores,2.0,used car,21.0,<100
+842,own,none,existing paid,1.0,skilled,none,1.0,repairs,18.0,<100
+843,own,none,all paid,1.0,skilled,bank,1.0,business,24.0,<100
+844,own,none,existing paid,2.0,skilled,bank,3.0,furniture/equipment,18.0,<100
+845,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,21.0,no known savings
+846,rent,none,existing paid,1.0,skilled,none,2.0,new car,18.0,no known savings
+847,own,none,existing paid,1.0,skilled,none,1.0,new car,24.0,<100
+848,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,<100
+849,own,none,existing paid,1.0,unskilled resident,stores,1.0,radio/tv,12.0,<100
+850,rent,guarantor,critical/other existing credit,1.0,skilled,bank,2.0,new car,20.0,<100
+851,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,24.0,no known savings
+852,for free,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,15.0,<100
+853,for free,none,all paid,2.0,unskilled resident,none,2.0,new car,18.0,<100
+854,own,none,delayed previously,2.0,skilled,none,2.0,new car,36.0,<100
+855,own,none,existing paid,1.0,skilled,none,1.0,new car,24.0,100<=X<500
+856,own,none,existing paid,1.0,skilled,none,1.0,retraining,10.0,no known savings
+857,for free,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,15.0,<100
+858,own,none,existing paid,1.0,skilled,none,1.0,new car,15.0,<100
+859,rent,guarantor,existing paid,2.0,skilled,none,1.0,new car,9.0,100<=X<500
+860,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,24.0,>=1000
+861,own,none,delayed previously,1.0,skilled,none,1.0,business,18.0,<100
+862,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,24.0,<100
+863,own,none,critical/other existing credit,2.0,unskilled resident,stores,2.0,furniture/equipment,27.0,>=1000
+864,rent,none,existing paid,1.0,unskilled resident,bank,1.0,furniture/equipment,10.0,<100
+865,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,15.0,500<=X<1000
+866,own,none,existing paid,1.0,skilled,stores,1.0,radio/tv,18.0,<100
+867,own,none,critical/other existing credit,1.0,skilled,stores,1.0,furniture/equipment,12.0,<100
+868,own,none,existing paid,1.0,skilled,none,2.0,business,36.0,no known savings
+869,rent,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,12.0,<100
+870,own,none,delayed previously,1.0,skilled,none,2.0,furniture/equipment,36.0,500<=X<1000
+871,own,none,critical/other existing credit,2.0,skilled,none,2.0,new car,6.0,<100
+872,own,none,critical/other existing credit,1.0,skilled,none,2.0,business,24.0,100<=X<500
+873,own,none,existing paid,1.0,skilled,none,1.0,domestic appliance,15.0,no known savings
+874,own,co applicant,existing paid,2.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+875,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,11.0,>=1000
+876,for free,co applicant,all paid,1.0,high qualif/self emp/mgmt,bank,1.0,radio/tv,18.0,<100
+877,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,36.0,<100
+878,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,9.0,<100
+879,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,30.0,no known savings
+880,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,<100
+881,for free,none,existing paid,1.0,skilled,none,1.0,used car,24.0,no known savings
+882,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,30.0,no known savings
+883,own,none,critical/other existing credit,1.0,unemp/unskilled non res,none,2.0,radio/tv,18.0,<100
+884,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,<100
+885,own,none,existing paid,1.0,skilled,none,1.0,education,12.0,<100
+886,own,none,critical/other existing credit,2.0,skilled,none,2.0,business,24.0,no known savings
+887,own,none,existing paid,1.0,skilled,none,1.0,business,48.0,<100
+888,own,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,new car,36.0,<100
+889,rent,guarantor,all paid,2.0,skilled,bank,2.0,used car,28.0,no known savings
+890,own,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,stores,4.0,business,27.0,<100
+891,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,15.0,<100
+892,own,none,critical/other existing credit,1.0,unskilled resident,bank,2.0,new car,12.0,<100
+893,own,none,critical/other existing credit,1.0,skilled,none,2.0,used car,36.0,<100
+894,own,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,18.0,no known savings
+895,own,none,delayed previously,2.0,high qualif/self emp/mgmt,stores,1.0,used car,36.0,no known savings
+896,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,21.0,<100
+897,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,12.0,>=1000
+898,rent,none,existing paid,1.0,unskilled resident,bank,1.0,furniture/equipment,15.0,no known savings
+899,own,co applicant,existing paid,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+900,rent,guarantor,critical/other existing credit,1.0,skilled,bank,1.0,new car,16.0,<100
+901,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,20.0,no known savings
+902,for free,none,critical/other existing credit,1.0,skilled,none,2.0,used car,36.0,no known savings
+903,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,15.0,no known savings
+904,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,24.0,<100
+905,rent,none,existing paid,2.0,high qualif/self emp/mgmt,none,1.0,radio/tv,12.0,<100
+906,own,co applicant,existing paid,1.0,unskilled resident,none,1.0,new car,21.0,no known savings
+907,own,none,existing paid,1.0,skilled,none,1.0,education,36.0,no known savings
+908,own,none,delayed previously,1.0,unskilled resident,none,2.0,used car,15.0,<100
+909,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,9.0,no known savings
+910,own,none,delayed previously,1.0,skilled,none,2.0,radio/tv,36.0,<100
+911,own,none,critical/other existing credit,1.0,unskilled resident,bank,1.0,furniture/equipment,24.0,<100
+912,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,30.0,no known savings
+913,own,none,existing paid,1.0,skilled,none,1.0,business,11.0,>=1000
+914,rent,none,all paid,1.0,skilled,none,1.0,business,24.0,<100
+915,own,none,no credits/all paid,1.0,high qualif/self emp/mgmt,bank,1.0,other,48.0,<100
+916,own,co applicant,existing paid,2.0,skilled,none,1.0,used car,10.0,100<=X<500
+917,own,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,new car,6.0,<100
+918,own,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,100<=X<500
+919,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,24.0,<100
+920,own,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,18.0,<100
+921,own,none,delayed previously,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,48.0,500<=X<1000
+922,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,<100
+923,rent,none,existing paid,2.0,skilled,none,1.0,new car,12.0,<100
+924,own,none,all paid,1.0,skilled,bank,1.0,furniture/equipment,24.0,<100
+925,own,none,all paid,1.0,skilled,bank,2.0,new car,12.0,<100
+926,rent,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,18.0,<100
+927,for free,none,existing paid,2.0,skilled,stores,3.0,used car,48.0,<100
+928,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,30.0,no known savings
+929,own,none,delayed previously,2.0,unskilled resident,none,2.0,new car,12.0,<100
+930,own,co applicant,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,24.0,<100
+931,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,9.0,<100
+932,own,none,critical/other existing credit,1.0,skilled,none,2.0,new car,9.0,<100
+933,own,none,critical/other existing credit,2.0,skilled,none,2.0,radio/tv,12.0,500<=X<1000
+934,own,none,existing paid,1.0,skilled,bank,1.0,radio/tv,12.0,<100
+935,own,none,delayed previously,1.0,high qualif/self emp/mgmt,stores,2.0,radio/tv,30.0,100<=X<500
+936,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,9.0,<100
+937,rent,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,radio/tv,6.0,<100
+938,for free,none,existing paid,1.0,skilled,none,1.0,education,60.0,<100
+939,own,none,critical/other existing credit,2.0,high qualif/self emp/mgmt,none,2.0,used car,24.0,no known savings
+940,own,none,existing paid,2.0,high qualif/self emp/mgmt,none,1.0,new car,12.0,no known savings
+941,own,none,existing paid,2.0,unskilled resident,none,1.0,new car,10.0,<100
+942,own,none,existing paid,1.0,skilled,stores,1.0,furniture/equipment,24.0,no known savings
+943,own,none,critical/other existing credit,2.0,unskilled resident,none,3.0,new car,4.0,<100
+944,rent,guarantor,existing paid,1.0,skilled,none,1.0,furniture/equipment,15.0,<100
+945,own,none,no credits/all paid,1.0,skilled,none,2.0,new car,48.0,500<=X<1000
+946,for free,none,all paid,2.0,skilled,none,1.0,furniture/equipment,24.0,500<=X<1000
+947,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,new car,12.0,no known savings
+948,own,co applicant,existing paid,2.0,unskilled resident,none,1.0,furniture/equipment,18.0,<100
+949,own,none,existing paid,1.0,skilled,none,2.0,radio/tv,24.0,100<=X<500
+950,own,none,critical/other existing credit,2.0,unemp/unskilled non res,none,3.0,business,18.0,<100
+951,own,none,delayed previously,1.0,skilled,none,2.0,business,36.0,<100
+952,rent,none,existing paid,1.0,skilled,none,1.0,used car,24.0,500<=X<1000
+953,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,2.0,furniture/equipment,36.0,<100
+954,own,guarantor,existing paid,1.0,skilled,none,1.0,new car,12.0,<100
+955,rent,none,critical/other existing credit,1.0,high qualif/self emp/mgmt,none,2.0,radio/tv,24.0,>=1000
+956,own,none,critical/other existing credit,1.0,unskilled resident,stores,2.0,radio/tv,30.0,no known savings
+957,own,none,critical/other existing credit,1.0,unskilled resident,none,3.0,radio/tv,9.0,<100
+958,own,none,existing paid,1.0,unskilled resident,none,1.0,new car,28.0,<100
+959,for free,none,existing paid,1.0,skilled,none,1.0,furniture/equipment,24.0,100<=X<500
+960,rent,none,critical/other existing credit,1.0,skilled,none,2.0,radio/tv,6.0,<100
+961,own,none,delayed previously,1.0,skilled,none,2.0,new car,21.0,<100
+962,own,none,existing paid,1.0,skilled,none,1.0,new car,15.0,no known savings
+963,own,none,existing paid,1.0,skilled,bank,2.0,radio/tv,24.0,500<=X<1000
+964,own,none,existing paid,1.0,unskilled resident,none,1.0,repairs,6.0,<100
+965,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,30.0,no known savings
+966,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,27.0,500<=X<1000
+967,rent,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,radio/tv,15.0,<100
+968,rent,none,existing paid,1.0,skilled,none,1.0,radio/tv,42.0,no known savings
+969,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,new car,11.0,<100
+970,own,guarantor,existing paid,1.0,skilled,none,1.0,repairs,15.0,100<=X<500
+971,own,none,existing paid,2.0,unskilled resident,none,1.0,new car,24.0,<100
+972,rent,co applicant,all paid,1.0,unemp/unskilled non res,none,2.0,new car,24.0,<100
+973,rent,co applicant,existing paid,1.0,skilled,none,1.0,business,60.0,<100
+974,own,none,critical/other existing credit,1.0,skilled,none,1.0,radio/tv,30.0,<100
+975,own,none,existing paid,1.0,unskilled resident,none,1.0,radio/tv,24.0,500<=X<1000
+976,own,guarantor,existing paid,1.0,skilled,none,1.0,radio/tv,6.0,<100
+977,own,none,delayed previously,1.0,skilled,none,2.0,business,18.0,no known savings
+978,own,none,delayed previously,2.0,unskilled resident,none,2.0,new car,24.0,<100
+979,rent,none,all paid,1.0,skilled,none,1.0,new car,15.0,100<=X<500
+980,own,none,critical/other existing credit,1.0,skilled,none,1.0,furniture/equipment,30.0,<100
+981,rent,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,business,48.0,<100
+982,own,none,existing paid,1.0,high qualif/self emp/mgmt,bank,1.0,new car,21.0,100<=X<500
+983,own,none,existing paid,2.0,skilled,none,1.0,used car,36.0,<100
+984,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,furniture/equipment,24.0,<100
+985,rent,none,critical/other existing credit,1.0,skilled,none,2.0,furniture/equipment,15.0,<100
+986,own,none,no credits/all paid,1.0,skilled,none,2.0,business,42.0,<100
+987,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,13.0,100<=X<500
+988,for free,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,24.0,<100
+989,own,none,critical/other existing credit,1.0,unskilled resident,none,2.0,radio/tv,24.0,<100
+990,own,none,critical/other existing credit,2.0,unskilled resident,none,2.0,education,12.0,no known savings
+991,own,none,all paid,2.0,unskilled resident,bank,1.0,radio/tv,15.0,100<=X<500
+992,rent,none,existing paid,1.0,unskilled resident,none,2.0,radio/tv,18.0,no known savings
+993,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,furniture/equipment,36.0,<100
+994,own,none,existing paid,1.0,skilled,none,1.0,new car,12.0,no known savings
+995,own,none,existing paid,1.0,unskilled resident,none,1.0,furniture/equipment,12.0,<100
+996,own,none,existing paid,1.0,high qualif/self emp/mgmt,none,1.0,used car,30.0,<100
+997,own,none,existing paid,1.0,skilled,none,1.0,radio/tv,12.0,<100
+998,for free,none,existing paid,1.0,skilled,none,1.0,radio/tv,45.0,<100
+999,own,none,critical/other existing credit,1.0,skilled,none,1.0,used car,45.0,100<=X<500

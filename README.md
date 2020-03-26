@@ -15,16 +15,16 @@ Dataset search is done using faiss (https://github.com/facebookresearch/faiss) a
 Hyperparameter Prediction
 
 Instructions:
-This is separated into 2 parts:
-    Hyperparameter Training:
-    1. Change appropriate variables in Search.py accordingly (depending on # of hyperparam, etc.)
-    2. Run Search.py with readDatabaseInput
-    3. Enter folder directory containing the metafeatures + hyperparam dataset
-    4. Wait for the training to finish.
-    5. Model will be saved on the current directory based on model name variable
+This is separated into 2 parts.
+Hyperparameter Training:
+1. Change appropriate variables in Search.py accordingly (depending on # of hyperparam, etc.)
+2. Run Search.py with readDatabaseInput
+3. Enter folder directory containing the metafeatures + hyperparam dataset
+4. Wait for the training to finish.
+5. Model will be saved on the current directory based on model name variable
 
-    Prediction:
-    1. Run Search,py with readTestInput
-    2. Enter folder directory containing the datasets to train on
-    3. Wait for the training to finish.
-    4. Accuracy of the resulting model will be saved. (default: TestingAcc or TrainingAcc folder)
+Prediction & Training:
+1. Run Search,py with readTestInput.
+2. Enter folder directory containing the datasets to train on. This will train the model with hyperparameters predicted by the model based on model name variable.
+3. Wait for the training to finish.
+4. Accuracy of the resulting model will be saved. (default: TestingAcc or TrainingAcc folder)
